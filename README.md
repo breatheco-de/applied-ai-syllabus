@@ -1,4 +1,4 @@
-# applied-ai-syllabus
+# Applied AI Syllabus
 
 Course Schedule:
 
