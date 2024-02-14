@@ -10,6 +10,7 @@ While AI boasts impressive capabilities, it's important to recognize that it is 
 | Empathetic Decision-Making | Has difficulty grasping and emulating human emotions, which are critical in some decision-making processes. | Excels in understanding emotional subtleties and making decisions that require compassion and empathy. | AI can provide data-driven insights, while humans can use those insights to make empathetic decisions. |
 | Abstract Art Creation | Generates patterns and designs but lacks the innate creativity that drives originality. | Originates unique ideas and expresses deep emotional resonance through art, a quality AI cannot replicate. | AI can serve as a tool for artists to experiment with new forms and techniques, enhancing the creative process. |
 
+---
 
 ## Prompt Engineering Best Practices
 ### What is Prompt Engineering?
@@ -45,7 +46,7 @@ Here are some best practices to consider:
 | Split Complex Tasks into Simpler Subtasks | Break down tasks into smaller, manageable parts. Use the outputs of earlier tasks as inputs for subsequent ones. | Step 1: "Summarize the first paragraph of the text." Step 2: "Using the summary from Step 1, explain the main argument." | "Explain the text." |
 | Give the Model Time to "Think" | Encourage the AI to reason through a problem before providing an answer. Request a "chain of thought" to improve the accuracy of responses. | "Before answering, list the steps you would take to solve this problem." | "Just answer the question." |
 
-
+---
 ## Interactive Prompt-Writing Activities
 
 Interactive prompt-writing activities are designed to enhance the skills of crafting effective prompts by engaging in practical exercises. These activities involve creating prompts, using them with AI, and then refining the prompts based on the AI's responses. The goal is to learn through experience and improve the ability to communicate with AI systems.
@@ -78,8 +79,8 @@ Task: Write a poem about the sunset.
 **AI Response**: "The sun dips low, a fiery glow, / Painting the sky in shades of ember, / Day's last breath, a whisper of light, / Night's embrace, as we remember."
 **Analysis**: The refined prompt led to a more specific and imagery-rich poem that effectively captures the essence of a sunset.
 
-
-###Ethical Considerations While Using AI in the Workplace
+---
+## Ethical Considerations While Using AI in the Workplace
 
 When integrating AI into the workplace, it's crucial to approach its use with a strong ethical framework. This ensures that the AI's capabilities are harnessed responsibly, and that its limitations are acknowledged and managed. Here are some ethical considerations to keep in mind:
 
@@ -116,7 +117,7 @@ When integrating AI into the workplace, it's crucial to approach its use with a 
 
 By adhering to these ethical considerations, organizations can ensure that their use of AI supports a fair, responsible, and beneficial work environment for all. It's not just about leveraging AI for efficiency and productivity, but also about fostering an ethical culture that aligns with societal values and norms.
 
-
+---
 ## Conclusions
 
 In this class, we have delved into the dynamic interplay between AI and human intelligence, acknowledging the unique strengths and limitations of each. We've seen that AI excels in tasks involving data analysis, repetitive processes, and large-scale computations, while human intelligence shines in areas requiring empathy, creativity, and complex decision-making.
@@ -127,7 +128,7 @@ In this class, we have delved into the dynamic interplay between AI and human in
 
 By embracing the complementary nature of AI and human intelligence, we can create a synergistic work environment that harnesses the full potential of both. This approach not only enhances productivity and innovation but also aligns with ethical standards and societal values, paving the way for a more inclusive and sustainable future.
 
-## **Q&A Session at every end of class**
+ **Q&A Session at every end of class**
 ---
 ## Class Quiz
 
@@ -142,3 +143,22 @@ By embracing the complementary nature of AI and human intelligence, we can creat
 5. **Discuss how AI is expected to transform job roles and the skills that will become more important as a result.**
 
 6. **Evaluate the effectiveness of the following prompts. For each prompt that you consider ineffective, explain why and provide a revised version that would elicit a better response from the AI.**
+ a. **Prompt**: "Suggest a good book."
+    - **Evaluation**: This prompt is too open-ended and lacks context about the reader's preferences or interests.
+    - **Revised Prompt**: "Can you recommend a science fiction book with strong female protagonists?"
+
+ b. **Prompt**: "Plan a trip."
+    - **Evaluation**: 
+    - **Revised Prompt**: 
+
+ c. **Prompt**: "How to fix a bike?"
+    - **Evaluation**:
+    - **Revised Prompt**:
+
+ d. **Prompt**: "Give me a workout routine."
+    - **Evaluation**:
+    - **Revised Prompt**:
+
+ e. **Prompt**: "What should I eat for dinner?"
+    - **Evaluation**: 
+    - **Revised Prompt**: 
