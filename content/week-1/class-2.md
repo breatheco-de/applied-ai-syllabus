@@ -143,22 +143,23 @@ By embracing the complementary nature of AI and human intelligence, we can creat
 5. **Discuss how AI is expected to transform job roles and the skills that will become more important as a result.**
 
 6. **Evaluate the effectiveness of the following prompts. For each prompt that you consider ineffective, explain why and provide a revised version that would elicit a better response from the AI.**
- a. **Prompt**: "Suggest a good book."
-    - **Evaluation**: This prompt is too open-ended and lacks context about the reader's preferences or interests.
-    - **Revised Prompt**: "Can you recommend a science fiction book with strong female protagonists?"
-
- b. **Prompt**: "Plan a trip."
-    - **Evaluation**: 
-    - **Revised Prompt**: 
-
- c. **Prompt**: "How to fix a bike?"
-    - **Evaluation**:
-    - **Revised Prompt**:
-
- d. **Prompt**: "Give me a workout routine."
-    - **Evaluation**:
-    - **Revised Prompt**:
-
- e. **Prompt**: "What should I eat for dinner?"
-    - **Evaluation**: 
-    - **Revised Prompt**: 
+   
+  a. **Prompt**: "Suggest a good book."
+     - **Evaluation**: This prompt is too open-ended and lacks context about the reader's preferences or interests.
+     - **Revised Prompt**: "Can you recommend a science fiction book with strong female protagonists?"
+ 
+  b. **Prompt**: "Plan a trip."
+     - **Evaluation**: 
+     - **Revised Prompt**: 
+ 
+  c. **Prompt**: "How to fix a bike?"
+     - **Evaluation**:
+     - **Revised Prompt**:
+ 
+  d. **Prompt**: "Give me a workout routine."
+     - **Evaluation**:
+     - **Revised Prompt**:
+ 
+  e. **Prompt**: "What should I eat for dinner?"
+     - **Evaluation**: 
+     - **Revised Prompt**: 
