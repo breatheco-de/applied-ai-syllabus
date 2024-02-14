@@ -144,22 +144,10 @@ By embracing the complementary nature of AI and human intelligence, we can creat
 
 6. **Evaluate the effectiveness of the following prompts. For each prompt that you consider ineffective, explain why and provide a revised version that would elicit a better response from the AI.**
    
-  a. **Prompt**: "Suggest a good book."
-     - **Evaluation**: This prompt is too open-ended and lacks context about the reader's preferences or interests.
-     - **Revised Prompt**: "Can you recommend a science fiction book with strong female protagonists?"
- 
-  b. **Prompt**: "Plan a trip."
-     - **Evaluation**: 
-     - **Revised Prompt**: 
- 
-  c. **Prompt**: "How to fix a bike?"
-     - **Evaluation**:
-     - **Revised Prompt**:
- 
-  d. **Prompt**: "Give me a workout routine."
-     - **Evaluation**:
-     - **Revised Prompt**:
- 
-  e. **Prompt**: "What should I eat for dinner?"
-     - **Evaluation**: 
-     - **Revised Prompt**: 
+| Prompt | Evaluation | Revised Prompt |
+|--------|------------|----------------|
+| Suggest a good book. | This prompt is too open-ended and lacks context about the reader's preferences or interests. | Can you recommend a science fiction book with strong female protagonists? |
+| Plan a trip. |  |  |
+| How to fix a bike? |  |  |
+| Give me a workout routine. |  |  |
+| What should I eat for dinner? |  |  |
