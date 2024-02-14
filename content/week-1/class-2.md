@@ -117,15 +117,28 @@ When integrating AI into the workplace, it's crucial to approach its use with a 
 By adhering to these ethical considerations, organizations can ensure that their use of AI supports a fair, responsible, and beneficial work environment for all. It's not just about leveraging AI for efficiency and productivity, but also about fostering an ethical culture that aligns with societal values and norms.
 
 
+## Conclusions
 
+In this class, we have delved into the dynamic interplay between AI and human intelligence, acknowledging the unique strengths and limitations of each. We've seen that AI excels in tasks involving data analysis, repetitive processes, and large-scale computations, while human intelligence shines in areas requiring empathy, creativity, and complex decision-making.
 
+- **Workplace Evolution**: AI is revolutionizing job roles, automating routine tasks, and enabling humans to focus on more strategic and creative endeavors. This shift demands a reevaluation of skills and job designs, emphasizing the importance of adaptability and continuous learning in the workforce.
 
+- **Collaborative Frameworks**: The future workplace will likely be characterized by collaborative frameworks where AI tools and human insight are interwoven. Humans will take on roles that leverage their ability to provide context, ethical judgment, and a personal touch, while AI will augment these capabilities with its computational power and efficiency.
 
-### Class Quiz
+By embracing the complementary nature of AI and human intelligence, we can create a synergistic work environment that harnesses the full potential of both. This approach not only enhances productivity and innovation but also aligns with ethical standards and societal values, paving the way for a more inclusive and sustainable future.
 
-1. What are two strengths of AI in the workplace?
-2. Name a task where human creativity is still superior to AI.
-3. What is the significance of prompt engineering in AI interactions?
-4. What is one common pitfall to avoid in prompt engineering?
-5. How can AI change the nature of jobs in the future?
-6. Fix the prompt: For each of the following prompts, explain why you think if it is a good or a bad prompt. If is a bad prompt, explain how to make it better and give a revised version of it.
+## **Q&A Session at every end of class**
+---
+## Class Quiz
+
+1. **List two tasks where AI outperforms human effort in the workplace and explain why.**
+
+2. **Identify a task that benefits from human creativity and explain why AI cannot fully replicate this.**
+
+3. **Define prompt engineering and discuss its importance in eliciting accurate responses from AI models.**
+
+4. **Describe a common pitfall in prompt engineering and provide a strategy to avoid it.**
+
+5. **Discuss how AI is expected to transform job roles and the skills that will become more important as a result.**
+
+6. **Evaluate the effectiveness of the following prompts. For each prompt that you consider ineffective, explain why and provide a revised version that would elicit a better response from the AI.**
