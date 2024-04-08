@@ -1,11 +1,11 @@
-# Inteligencia Artificial Explicada en Términos Sencillos
+# ¿Qué es la Inteligencia Artificial Generativa?
 ![charlytoc_A_robot_painting_on_a_canvas_3821309c-004d-41b7-b009-21c9bdd3674e](https://github.com/breatheco-de/applied-ai-syllabus/assets/107764250/41e8da3f-f1ba-48ca-bbdf-f1a8a60e7486)
 
 Entiende cómo funciona y domínala en menos de lo que tardes leyendo este artículo.
 
 La inteligencia artificial (IA, de ahora en adelante) generativa, está cambiando la forma en la que trabajamos, investigamos, probamos conceptos, y puede ser usada hoy en día para hacer prácticamente todo. En esta pequeña guía te voy a explicar de la forma más sencilla posible algunos conceptos claves para entender a la IA generativa y puedas así sacarle el máximo provecho.
 
-### ¿Qué es la IA Generativa?
+### Pero y entonces, ¿qué es la IA Generativa?
 La IA generativa es un campo de la inteligencia artificial que se centra en crear **modelos** que pueden generar contenido nuevo, basándose en un conjunto de datos de entrenamiento. Es como enseñarle a un robot a pintar; primero le muestras miles de cuadros y luego le pides que cree su propia obra de arte. De esta manera son entrenados *todos* los modelos de IA generativa que existe en la actualidad. 
 
 ### Pero... ¿Qué es un modelo?
