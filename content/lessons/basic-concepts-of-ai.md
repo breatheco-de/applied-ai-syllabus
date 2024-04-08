@@ -1,4 +1,4 @@
-### 🤖 Artificial Intelligence in Simple Terms
+# 🤖 Artificial Intelligence in Simple Terms
 ![charlytoc_A_robot_painting_on_a_canvas_3821309c-004d-41b7-b009-21c9bdd3674e](https://github.com/breatheco-de/applied-ai-syllabus/assets/107764250/41e8da3f-f1ba-48ca-bbdf-f1a8a60e7486)
 
 
