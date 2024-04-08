@@ -1,4 +1,5 @@
 ### Conceptos Básicos de Inteligencia Artificial Generativa
+![charlytoc_A_robot_painting_on_a_canvas_3821309c-004d-41b7-b009-21c9bdd3674e](https://github.com/breatheco-de/applied-ai-syllabus/assets/107764250/41e8da3f-f1ba-48ca-bbdf-f1a8a60e7486)
 Entiende cómo funciona y domínala en menos de lo que tardes leyendo este artículo.
 
 La inteligencia artificial (IA, de ahora en adelante) generativa, está cambiando la forma en la que trabajamos, investigamos, probamos conceptos, y puede ser usada hoy en día para hacer prácticamente todo. En esta pequeña guía te voy a explicar de la forma más sencilla posible algunos conceptos claves para entender a la IA generativa y puedas así sacarle el máximo provecho.
@@ -13,6 +14,7 @@ Un modelo en inteligencia artificial es como un cerebro humano, está compuesto 
 Cuando usas una IA, te esperas que (para ejemplos prácticos, imaginemos el caso de un modelo de generación de imágenes) si le pides una manzana roja, te de una manzana roja y no una pera verde, pero, ¿cómo es que modelos como Midjourney o Dall-e-3 son capaces de saber qué es una manzana roja? Simple, no lo saben. No podemos imaginarnos a un modelo de IA como un ente que sabe algo, la IA es entrenada con datos de entrada y salida al mismo tiempo, es decir, se le da un texto que dice "manzana roja", y se le muestra el caso de éxito que es una imagen de una manzana roja. De esta forma, y cuando multiplicas por miles o millones la cantidad de datos de entrenamiento, la **red neuronal** es capaz de **ajustar sus pesos** y producir resultados que son cada vez mejores según la calidad de los datos de entrenamiento.
 
 ### Espera, ¿me estás diciendo que tienen neuronas?
+![charlytoc_neural_network_diagram_minimalistic_but_inderstandabl_271da4a6-49aa-4ef9-9efa-4ab14c703f48](https://github.com/breatheco-de/applied-ai-syllabus/assets/107764250/f0925edc-4e2a-4815-ab43-234617375f02)
 Bueno, qué bueno que lo preguntes (aunque quizás no lo hiciste), pero sí, de una u otra forma una red neuronal funciona de forma similar a como lo hacen las nuestras, solo que en vez de señales químicas, son operaciones matemáticas las que pasan entre ellas, estas operaciones matemáticas dependen directamente de sus pesos, ¿y qué son estos pesos? Podríamos describir a los pesos como valores numéricos que indican si una neurona se relaciona más o menos con la otra según el dato de entrada. De esta forma, según el dato de entrada, se van activar unas u otras neuronas y habrá una salida determinada.
 
 ### Abramos debate, ¿tiene la IA inteligencia?
