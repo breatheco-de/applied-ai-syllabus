@@ -1,5 +1,6 @@
 # 🤖 Artificial Intelligence in Simple Terms
-![charlytoc_A_robot_painting_on_a_canvas_3821309c-004d-41b7-b009-21c9bdd3674e](https://github.com/breatheco-de/applied-ai-syllabus/assets/107764250/41e8da3f-f1ba-48ca-bbdf-f1a8a60e7486)
+![Prompt: a_robot_with_humanoid_aspect_drawing_on_a_picture, by @Charlytoc](https://storage.googleapis.com/rigobot-storage-bucket/images/charlytoc_a_robot_with_humanoid_aspect_drawing_on_a_picture_286bf920-6d07-4e21-be6f-b637fda1d766.webp)
+
 
 
 Understand how it works and master it in less time than it takes to read this article.
@@ -16,7 +17,8 @@ A model in artificial intelligence is like a human brain, it is composed of a **
 When you use AI, you expect that (for practical examples, let's imagine the case of an image generation model) if you ask for a red apple, it gives you a red apple and not a green pear, but, how do models like Midjourney or Dall-e-3 know what a red apple is? Simple, they don't. We cannot imagine an AI model as an entity that knows something, AI is trained with input and output data at the same time, that is, it is given a text that says "red apple", and it is shown the successful case which is an image of a red apple. In this way, and when you multiply by thousands or millions the amount of training data, the **neural network** is able to **adjust its weights** and produce results that are increasingly better according to the quality of the training data.
 
 ### Wait, are you telling me they have neurons?
-![charlytoc_neural_network_diagram_minimalistic_but_inderstandabl_271da4a6-49aa-4ef9-9efa-4ab14c703f48](https://github.com/breatheco-de/applied-ai-syllabus/assets/107764250/f0925edc-4e2a-4815-ab43-234617375f02)
+![Prompt: Diagrama minimalista de una red neuronal, by @Charlytoc](https://storage.cloud.google.com/rigobot-storage-bucket/images/charlytoc_neural_network_diagram_minimalistic_but_inderstandabl_271da4a6-49aa-4ef9-9efa-4ab14c703f48.webp?authuser=1)
+
 
 Well, good that you ask (although maybe you didn't), but yes, in one way or another a neural network works similarly to how ours do, only instead of chemical signals, they are mathematical operations that pass between them, these mathematical operations depend directly on their weights, and what are these weights? We could describe the weights as numerical values that indicate whether a neuron is more or less related to another according to the input data. In this way, depending on the input data, some neurons will be activated and there will be a determined output.
 
