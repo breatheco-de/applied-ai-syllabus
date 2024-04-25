@@ -1,5 +1,6 @@
 # AI for Healthcare: An Innovative Perspective
-![charlytoc_depicts_a_healthcare_professional_intently_reviewing](https://github.com/breatheco-de/applied-ai-syllabus/assets/107764250/497ef348-983e-4508-846f-e42ea4c85c65)
+![charlytoc_AI_can_serve_as_a_virtual_medical_assistant_scheduling](https://github.com/breatheco-de/applied-ai-syllabus/assets/107764250/d71f50fa-5c61-4258-acb4-bd02ecbecf88)
+
 
 AI in healthcare represents a transformative force, poised to redefine traditional paradigms and introduce new levels of efficiency and personalization in patient care. This essay explores the potential applications of generative AI, vision computing, and multimodal models in revolutionizing healthcare delivery.
 
@@ -14,7 +15,7 @@ AI's ability to automate and optimize administrative tasks can significantly red
 ## Diverse Perspectives on AI in Healthcare
 
 ### From a Doctor's Viewpoint
-
+![charlytoc_depicts_a_healthcare_professional_intently_reviewing](https://github.com/breatheco-de/applied-ai-syllabus/assets/107764250/497ef348-983e-4508-846f-e42ea4c85c65)
 For doctors, the healthcare landscape is vast and intricate, filled with an overwhelming amount of data from patient records to complex medical imaging. AI tools can dissect and interpret this data efficiently, aiding doctors in making informed decisions swiftly, thus enhancing the quality of care provided.
 
 ### From a Patient's Perspective
