@@ -26,7 +26,9 @@ Patients, particularly those grappling with undiagnosed symptoms, seek clarity a
 1. **Screening and Diagnosis**: AI can serve as a virtual medical assistant, scheduling appointments and even suggesting initial diagnoses based on patient-reported symptoms. This accelerates the process of finding the appropriate specialist and treatment, making healthcare more accessible and efficient.
 
 2. **Vision Computing in Medical Imaging**: Advanced algorithms can analyze medical images with greater accuracy than ever before, identifying subtle patterns that may be missed by the human eye. This capability is crucial for early detection of diseases such as cancer, where early intervention can dramatically improve prognosis.
+  ![charlytoc_The_image_showcases_an_advanced_AI_interface_providing](https://github.com/breatheco-de/applied-ai-syllabus/assets/107764250/48c29f5a-c3cf-4010-9295-537ba99c762f)
 
-3. **Multimodal Models for Comprehensive Care**: These models integrate multiple types of data (text, images, and audio) to provide a holistic view of a patient's health. This comprehensive approach supports more accurate diagnoses and better patient management. 
+
+4. **Multimodal Models for Comprehensive Care**: These models integrate multiple types of data (text, images, and audio) to provide a holistic view of a patient's health. This comprehensive approach supports more accurate diagnoses and better patient management. 
 
 In conclusion, the potential of generative AI, vision computing, and multimodal models in healthcare is immense. These technologies not only promise to enhance the efficiency and accuracy of medical services but also offer a more personalized healthcare journey for patients, ultimately leading to improved health outcomes.
