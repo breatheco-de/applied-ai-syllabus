@@ -1,5 +1,5 @@
 # AI for Healthcare: An Innovative Perspective
-![charlytoc_AI_can_serve_as_a_virtual_medical_assistant_scheduling](https://github.com/breatheco-de/applied-ai-syllabus/assets/107764250/d71f50fa-5c61-4258-acb4-bd02ecbecf88)
+![charlytoc_AI_can_serve_as_a_virtual_medical_assistant_scheduling](../../assets/)
 
 
 AI in healthcare represents a transformative force, poised to redefine traditional paradigms and introduce new levels of efficiency and personalization in patient care. This essay explores the potential applications of generative AI, vision computing, and multimodal models in revolutionizing healthcare delivery.
