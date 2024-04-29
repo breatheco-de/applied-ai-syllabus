@@ -8,7 +8,7 @@
 - [AWS HealthScribe Information](https://aws.amazon.com/es/healthscribe/)
 
 ## Week 1: Introduction to Artificial Intelligence in Healthcare
-- **Overview of AI**: Understanding the basics of AI, including machine learning, deep learning, and neural networks. [Learn more](https://www.ibm.com/topics/ai)
+- **Overview of AI**: Understanding the basics of AI, including machine learning, deep learning, and neural networks.
 - **History and Evolution of AI in Healthcare**: How AI has transformed from a theoretical concept to a practical tool in medicine. [History of AI in Medicine](https://pubmed.ncbi.nlm.nih.gov/32565184/)
 - **Key Terminologies and Concepts**: Familiarization with common AI and healthcare terminologies.
 
