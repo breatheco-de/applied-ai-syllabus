@@ -20,7 +20,7 @@
 ## Week 3: Tools and Platforms for AI in Healthcare
 - **Introduction to AWS HealthScribe**: Learning how to use AWS HealthScribe to automate clinical note-taking.
 - **Other AI Tools**: Overview of other prominent AI tools used in healthcare, such as IBM Watson Health and Google DeepMind Health. [IBM Watson Health](https://www.ibm.com/industries/healthcare)
-- **Hands-On Exercises**: Practical sessions on setting up and using these tools for simulated healthcare scenarios.
+- **Hands-On Exercises**: Practical sessions on setting up and using different tools for simulated healthcare scenarios.
 
 ## Week 4: AI in Medical Imaging
 - **Technologies Behind AI Imaging Tools**: Understanding the technologies that power AI in medical imaging.
