@@ -1,8 +1,15 @@
 # Applied AI for Healthcare: Disrupting Technologies to Revolutionize the Healthcare Industry
 
+**Summary**: This course provides an in-depth exploration of artificial intelligence (AI) applications in healthcare, covering the evolution, current uses, and future potential of AI technologies. It aims to equip participants with the knowledge and skills to leverage AI in various healthcare settings, enhancing diagnostics, treatment personalization, and operational efficiency.
+
+**External Sources**:
+- [The Benefits of AI in Healthcare - IBM Blog](https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/)
+- [AI & Machine Learning for Early Disease Detection - Binariks](https://binariks.com/blog/ai-machine-learning-for-early-disease-detection/)
+- [AWS HealthScribe Information](https://aws.amazon.com/es/healthscribe/)
+
 ## Week 1: Introduction to Artificial Intelligence in Healthcare
 - **Overview of AI**: Understanding the basics of AI, including machine learning, deep learning, and neural networks. [Learn more](https://www.ibm.com/topics/ai)
-- **History and Evolution of AI in Healthcare**: How AI has transformed from a theoretical concept to a practical tool in medicine.
+- **History and Evolution of AI in Healthcare**: How AI has transformed from a theoretical concept to a practical tool in medicine. [History of AI in Medicine](https://pubmed.ncbi.nlm.nih.gov/32565184/)
 - **Key Terminologies and Concepts**: Familiarization with common AI and healthcare terminologies.
 
 ## Week 2: AI Applications in Healthcare
@@ -12,7 +19,7 @@
 
 ## Week 3: Tools and Platforms for AI in Healthcare
 - **Introduction to AWS HealthScribe**: Learning how to use AWS HealthScribe to automate clinical note-taking.
-- **Other AI Tools**: Overview of other prominent AI tools used in healthcare, such as IBM Watson Health and Google DeepMind Health.
+- **Other AI Tools**: Overview of other prominent AI tools used in healthcare, such as IBM Watson Health and Google DeepMind Health. [IBM Watson Health](https://www.ibm.com/industries/healthcare)
 - **Hands-On Exercises**: Practical sessions on setting up and using these tools for simulated healthcare scenarios.
 
 ## Week 4: AI in Medical Imaging
