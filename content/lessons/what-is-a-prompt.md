@@ -1,3 +1,7 @@
+---
+description: Understand what a prompt is and how it is used in generative AI models.
+---
+
 # What is a Prompt?
 
 A prompt is the input data you give to the AI model to generate new content. It can be text, an image, a sound, or any type of data that the model is trained to understand. Generative AI is a field of [artificial intelligence](https://cloud.google.com/learn/what-is-artificial-intelligence) that focuses on creating [models](https://www.ibm.com/topics/ai-model#:~:text=An%20AI%20model%20is%20a,they've%20been%20programmed%20for.) that can generate new content based on a set of training data. It's like teaching a robot to paint; first, you show it thousands of paintings and then ask it to create its own artwork. In this way, all current generative AI models are [trained](https://www.clickworker.com/customer-blog/process-of-ai-training/) on a large amount of data.
