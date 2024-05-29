@@ -1,10 +1,11 @@
 ---
 description: "Prompt Engineering is the art of crafting effective prompts to make the AI serve your needs. There are a lot of techniques that you can use to become a great Prompt Engineer."
-tags: ["machine learning", "prompt engineering", "generative ai"]
+tags: [, "prompt engineering", "generative ai"]
 
 ---
 
 # How to Become a Prompt Engineer
+
 ![Prompt](../../assets/charlytoc_A_collage_of_various_data_types_like_text_images_and__25f517b0-5ec4-40ec-8433-454e9575b8e6.webp)
 
 Prompt Engineering is the art of crafting effective prompts to make the AI serve your needs. There are a [lot of techniques](https://www.4geeksacademy.com) that you can use to become a great Prompt Engineer. This essay will cover some of the most important aspects of Prompt Engineering and provide you with some tips on how to become a great Prompt Engineer.
@@ -30,16 +31,15 @@ As a Prompt Engineer, your job consist basically in writting, executing and refi
 
 Generally, a longer prompt will provide more context to the AI, which can help it generate more accurate and relevant output. However, a longer prompt can also introduce more noise and make it harder for the AI to generate the desired output. That's why using the right prompting techniques is so important.
 
-
 ## Where can I learn more about Prompt Engineering?
 
 If you want to learn more about Prompt Engineering, there are a lot of resources available online. You can find tutorials, articles, videos, and other resources that can help you improve your Prompt Engineering skills. Some of the best resources for learning about Prompt Engineering include:
+
 - [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering): This guide provides an overview of Prompt Engineering and offers tips and best practices for crafting effective prompts.
 
 - 4Geeks Prompt Engineering Course: This course covers the basics of Prompt Engineering and provides hands-on exercises to help you practice your skills. All integrated into VSCode, can run locally or with a cloud-based IDE such as Gitpod or Codespaces, to start, is easy as pressing a button.
 
 - Practice, practice, and more practice: The best way to learn Prompt Engineering is to practice. Experiment with different prompts, try different techniques, and see what works best for you. The more you practice, the better you will become at crafting effective prompts. Try to experiment with different models to see the capabilities of each one and figure out which one works best for your needs.
-
 
 ## Conclusion
 
