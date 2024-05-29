@@ -1,11 +1,11 @@
 ---
 description: "Aprende cómo convertirte en un Ingeniero de Prompts y crear prompts efectivos para usar la IA a tu favor. ¡Vamos a ello! 🎉"
-tags: [, "prompt engineering", "ia generativa"]
+tags: ["prompt engineering", "ia generativa"]
 ---
 
 # Cómo Convertirse en un Prompt Engineer
 
-![Prompt](../../assets/charlytoc_A_collage_of_various_data_types_like_text_images_and__25f517b0-5ec4-40ec-8433-454e9575b8e6.webp)
+![Prompt](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/main/assets/charlytoc_A_collage_of_various_data_types_like_text_images_and__25f517b0-5ec4-40ec-8433-454e9575b8e6.webp)
 
 La Ingeniería de Prompts es el arte de crear prompts efectivos para que la IA sirva a tus necesidades. Hay muchas [técnicas](https://www.4geeksacademy.com) que puedes usar para convertirte en un gran Ingeniero de Prompts. Este ensayo cubrirá algunos de los aspectos más importantes de la Ingeniería de Prompts y te proporcionará algunos consejos sobre cómo convertirte en un gran Ingeniero de Prompts.
 

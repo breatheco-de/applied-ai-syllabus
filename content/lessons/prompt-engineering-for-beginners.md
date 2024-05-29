@@ -1,11 +1,11 @@
 ---
 description: "Learn the most important techniques for making effective prompts and getting the AI to work for your exact purposes."
-tags: [, "prompt engineering", "generative ai"]
+tags: ["prompt engineering", "generative ai"]
 ---
 
 # Prompt Engineering for Beginners 🤖
 
-![Prompt](../../assets/charlytoc_A_robot_chef_preparing_a_gourmet_meal_in_a_kitchen_hi_86f30105-10ac-4b6f-811c-e90be102520a.webp)
+![Prompt](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/main/assets/charlytoc_A_robot_chef_preparing_a_gourmet_meal_in_a_kitchen_hi_86f30105-10ac-4b6f-811c-e90be102520a.webp)
 
 Generative AI has come to stay, and with it, prompt engineering has become one of the most in-demand skills for companies today. A Prompt Engineer is someone who knows the techniques to get a generative AI model to produce an expected result.
 

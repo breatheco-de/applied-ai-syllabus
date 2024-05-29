@@ -1,13 +1,11 @@
 ---
 description: "Learn the most important techniques for making effective prompts and getting the AI to work for your exact purposes, fix your code, translate from a programming language to another, and much more."
-tags: [, "prompt engineering", "generative ai"]
-
-
+tags: ["prompt engineering", "generative ai"]
 ---
 
 # Prompt Engineering for Developers 🤖
 
-![Prompt](../../assets/charlytoc_A_prompt_engineer_crafting_precise_instructions_for_a_f16a9847-9632-4c57-b29f-7379d19d3d1f.webp)
+![Prompt](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/main/assets/charlytoc_A_prompt_engineer_crafting_precise_instructions_for_a_f16a9847-9632-4c57-b29f-7379d19d3d1f.webp)
 As a developer, you are probably using AI everyday. Maybe in your code editor, in your email client, or even in your favorite search engine. Generative AI has come to stay, and with it, prompt engineering has become one of the most in-demand skills for companies today. A Prompt Engineer is someone who knows the techniques to get a generative AI model to produce an expected result.
 
 Prompt Engineering can be very briefly summarized with the following text: It is the skill of writing clear instructions and getting an AI to follow them.
