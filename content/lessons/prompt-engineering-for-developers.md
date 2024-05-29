@@ -1,6 +1,6 @@
 ---
 description: "Learn the most important techniques for making effective prompts and getting the AI to work for your exact purposes, fix your code, translate from a programming language to another, and much more."
-tags: [machine learning]
+tags: ["machine learning", "prompt engineering", "generative ai"]
 
 
 ---

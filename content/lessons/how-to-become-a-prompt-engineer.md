@@ -1,6 +1,6 @@
 ---
 description: "Prompt Engineering is the art of crafting effective prompts to make the AI serve your needs. There are a lot of techniques that you can use to become a great Prompt Engineer."
-tags: [machine learning]
+tags: ["machine learning", "prompt engineering", "generative ai"]
 
 ---
 

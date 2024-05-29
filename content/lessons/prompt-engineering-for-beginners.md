@@ -1,7 +1,6 @@
 ---
 description: "Learn the most important techniques for making effective prompts and getting the AI to work for your exact purposes."
-tags: [machine learning]
-
+tags: ["machine learning", "prompt engineering", "generative ai"]
 ---
 
 # Prompt Engineering for Beginners 🤖

@@ -1,6 +1,6 @@
 ---
 description: "Understand what a prompt is and how it is used in generative AI models."
-tags: [machine learning]
+tags: ["machine learning", "prompt engineering", "generative ai"]
 
 ---
 
