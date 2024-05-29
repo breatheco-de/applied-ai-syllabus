@@ -1,6 +1,6 @@
 # Prompt Engineering for Beginners 🤖
 
-La (IA generativa)[https://cloud.google.com/use-cases/generative-ai?hl=es] ha llegado para quedarse, y con ello La ingeniería de prompts, mejor conocida como (Prompt Engineering)[https://platform.openai.com/docs/guides/prompt-engineering], se ha convertido en una de las habilidades más demandadas por las empresas en la actualidad. Un Prompt Engineer es aquella persona que conoce las técnicas para lograr que un modelo de inteligencia artificial generativa produzca un resultado esperado.
+La [IA generativa](https://cloud.google.com/use-cases/generative-ai?hl=es) ha llegado para quedarse, y con ello La ingeniería de prompts, mejor conocida como [Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering), se ha convertido en una de las habilidades más demandadas por las empresas en la actualidad. Un Prompt Engineer es aquella persona que conoce las técnicas para lograr que un modelo de inteligencia artificial generativa produzca un resultado esperado.
 
 El Prompt Engineering puede resumirse muy brevemente con el siguiente texto: Es la habilidad para escribir instrucciones claras y lograr que una IA las siga.
 
@@ -33,8 +33,8 @@ Utilizar delimitadores para definir claramente el texto o la tarea que se debe r
 
 | Prompt | Description | Por qué |
 |--------|-------------|-----|
-| **Malo** | "Traduce el siguiente texto al inglés La Ilíada es una epopeya griega, atribuida tradicionalmente a Homero. Compuesta en hexámetros dactílicos, consta de 15 693 versos y su trama radica en la cólera de Aquiles.​ Narra los acontecimientos ocurridos durante 51 días en el décimo y último año de la guerra de Troya." | Puede generar respuestas incorrectas al no delimitar claramente el texto a traducir. |
-| **Bueno** | ```Traduce el siguiente texto al inglés: "La Ilíada es una epopeya griega, atribuida tradicionalmente a Homero. Compuesta en hexámetros dactílicos, consta de 15 693 versos y su trama radica en la cólera de Aquiles.​ Narra los acontecimientos ocurridos durante 51 días en el décimo y último año de la guerra de Troya."``` | Delimita claramente el texto a traducir, evitando ambigüedades. |
+| **Malo** | Traduce el texto al francés asegurar una buena calidad de traducción es muy fácil si sabes cómo usar IA. | Puede generar respuestas incorrectas al no delimitar claramente el texto a traducir. |
+| **Bueno** | Traduce el texto al francés """asegurar una buena calidad de traducción es muy fácil si sabes cómo usar IA""". | Delimita claramente el texto a traducir, evitando ambigüedades. |
 
 
 ## 4. Deja que el modelo "piense"
