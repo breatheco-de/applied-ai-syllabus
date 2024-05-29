@@ -1,5 +1,8 @@
 ---
-description: Learn the most important techniques for making effective prompts and getting the AI to work for your exact purposes, fix your code, write documentation for your projects, or even generate new ideas of programs, translate from a programming language to another, and much more.
+description: "Learn the most important techniques for making effective prompts and getting the AI to work for your exact purposes, fix your code, translate from a programming language to another, and much more."
+tags: [machine learning]
+
+
 ---
 
 # Prompt Engineering for Developers 🤖

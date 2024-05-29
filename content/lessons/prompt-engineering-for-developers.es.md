@@ -1,5 +1,7 @@
 ---
 description: Aprende las técnicas más importantes para hacer prompts efectivos y lograr que la IA trabaje para tus proyectos como desarrollador. ¡Vamos a empezar! 🎉
+tags: [machine learning]
+
 ---
 
 # Ingeniería de Prompts para Desarrolladores 🤖

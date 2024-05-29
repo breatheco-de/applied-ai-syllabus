@@ -1,5 +1,7 @@
 ---
-description: Understand what a prompt is and how it is used in generative AI models.
+description: "Understand what a prompt is and how it is used in generative AI models."
+tags: [machine learning]
+
 ---
 
 # What is a Prompt?

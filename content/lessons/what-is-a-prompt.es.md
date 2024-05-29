@@ -1,5 +1,6 @@
 ---
-description: Aprende qué es un prompt y cómo se usa en la inteligencia artificial generativa.
+description: "Aprende qué es un prompt y cómo se usa en la inteligencia artificial generativa."
+tags: [machine learning]
 ---
 
 # ¿Qué es un Prompt?
