@@ -1,6 +1,6 @@
 ---
 description: "Domina el arte de la Ingeniería de Prompts para aprovechar al máximo el potencial de la IA. Aprende a redactar instrucciones precisas para obtener resultados de alta calidad. ¡Vamos a ello! 🎉"
-tags: ["machine learning", "prompt engineering", "generative ai"]
+tags: ["machine learning", "prompt engineering", "ia generativa"]
 
 ---
 

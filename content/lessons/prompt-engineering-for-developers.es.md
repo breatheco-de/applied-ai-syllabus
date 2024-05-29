@@ -1,6 +1,6 @@
 ---
 description: Aprende las técnicas más importantes para hacer prompts efectivos y lograr que la IA trabaje para tus proyectos como desarrollador. ¡Vamos a empezar! 🎉
-tags: ["machine learning", "prompt engineering", "generative ai"]
+tags: ["machine learning", "prompt engineering", "ia generativa"]
 
 ---
 

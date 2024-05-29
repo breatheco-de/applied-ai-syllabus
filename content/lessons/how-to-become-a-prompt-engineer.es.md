@@ -1,6 +1,6 @@
 ---
 description: "Aprende cómo convertirte en un Ingeniero de Prompts y crear prompts efectivos para usar la IA a tu favor. ¡Vamos a ello! 🎉"
-tags: ["machine learning", "prompt engineering", "generative ai"]
+tags: ["machine learning", "prompt engineering", "ia generativa"]
 ---
 
 
