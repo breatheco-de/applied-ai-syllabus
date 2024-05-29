@@ -1,3 +1,7 @@
+---
+description: Prompt Engineering is the art of crafting effective prompts to make the AI serve your needs. There are a lot of techniques that you can use to become a great Prompt Engineer. This essay will cover some of the most important aspects of Prompt Engineering and provide you with some tips on how to become a great Prompt Engineer.
+---
+
 # How to Become a Prompt Engineer
 
 Prompt Engineering is the art of crafting effective prompts to make the AI serve your needs. There are a [lot of techniques](https://www.4geeksacademy.com) that you can use to become a great Prompt Engineer. This essay will cover some of the most important aspects of Prompt Engineering and provide you with some tips on how to become a great Prompt Engineer.

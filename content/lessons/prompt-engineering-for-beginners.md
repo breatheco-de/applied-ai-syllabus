@@ -1,3 +1,7 @@
+---
+description: Learn the most important techniques for making effective prompts and getting the AI to work for your exact purposes.
+---
+
 # Prompt Engineering for Beginners 🤖
 
 Generative AI has come to stay, and with it, prompt engineering has become one of the most in-demand skills for companies today. A Prompt Engineer is someone who knows the techniques to get a generative AI model to produce an expected result.

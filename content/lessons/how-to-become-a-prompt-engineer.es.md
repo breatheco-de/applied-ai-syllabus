@@ -1,3 +1,8 @@
+---
+description: Aprende cómo convertirte en un Ingeniero de Prompts y crear prompts efectivos para usar la IA a tu favor. ¡Vamos a ello! 🎉
+---
+
+
 # Cómo Convertirse en un Ingeniero de Prompts
 
 La Ingeniería de Prompts es el arte de crear prompts efectivos para que la IA sirva a tus necesidades. Hay muchas [técnicas](https://www.4geeksacademy.com) que puedes usar para convertirte en un gran Ingeniero de Prompts. Este ensayo cubrirá algunos de los aspectos más importantes de la Ingeniería de Prompts y te proporcionará algunos consejos sobre cómo convertirte en un gran Ingeniero de Prompts.

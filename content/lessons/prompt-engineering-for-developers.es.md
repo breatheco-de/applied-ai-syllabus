@@ -1,3 +1,7 @@
+---
+description: Aprende las técnicas más importantes para hacer prompts efectivos y lograr que la IA trabaje para tus proyectos como desarrollador. ¡Vamos a empezar! 🎉
+---
+
 # Ingeniería de Prompts para Desarrolladores 🤖
 
 Como desarrollador, probablemente uses IA todos los días. Tal vez en tu editor de código, en tu cliente de correo electrónico, o incluso en tu motor de búsqueda favorito. La IA generativa ha llegado para quedarse, y con ella, la ingeniería de prompts se ha convertido en una de las habilidades más demandadas por las empresas hoy en día. Un Ingeniero de Prompts es alguien que conoce las técnicas para lograr que un modelo de IA generativa produzca un resultado esperado.

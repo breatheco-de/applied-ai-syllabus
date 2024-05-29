@@ -1,3 +1,7 @@
+---
+description: Aprende qué es un prompt y cómo se usa en la inteligencia artificial generativa.
+---
+
 # ¿Qué es un Prompt?
 
 > Un prompt es el dato de entrada que le das al modelo de IA para generar nuevo contenido. Puede ser un texto, una imagen, un sonido o cualquier tipo de dato que el modelo esté entrenado para entender.
