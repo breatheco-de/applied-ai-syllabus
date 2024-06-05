@@ -22,7 +22,7 @@ Cuando hablamos con una inteligencia artificial, esperamos que nos entienda y ha
 
 ## 1. Escribe instrucciones claras y detalladas
 
-La primera técnica es tan simple como escribir una instrucción clara. Esto suena fácil, pero mira los siguientes ejemplos para entender su poder.
+La primera técnica es tan simple como escribir una [instrucción clara](https://platform.openai.com/docs/guides/prompt-engineering/tactic-include-details-in-your-query-to-get-more-relevant-answers). Esto suena fácil, pero mira los siguientes ejemplos para entender su poder.
 
 | Prompt    | Descripción                                                                                                                                                                         | Por qué                                                                                     |
 | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
@@ -42,7 +42,7 @@ Por ejemplo, al pedirle al modelo que produzca un script, sé claro con los sigu
 
 ## 2. Pide al modelo que actúe como un experto en un área específica
 
-Pedirle al modelo que asuma el rol de un experto puede mejorar significativamente la calidad de las respuestas, respondiendo con las palabras más apropiadas para el campo que te interesa. Esto es especialmente útil cuando necesitas información detallada y especializada sobre un tema específico. Por ejemplo, puedes pedirle al modelo que actúe como un ingeniero de software senior para ayudarte a diseñar un sistema escalable, o como un experto en ciberseguridad para darte una auditoría de seguridad detallada, o incluso como un científico de datos para explicarte un algoritmo complejo, el límite es tu imaginación.
+Pedirle al modelo que [asuma el rol de un experto](https://platform.openai.com/docs/guides/prompt-engineering/tactic-ask-the-model-to-adopt-a-persona) puede mejorar significativamente la calidad de las respuestas, respondiendo con las palabras más apropiadas para el campo que te interesa. Esto es especialmente útil cuando necesitas información detallada y especializada sobre un tema específico. Por ejemplo, puedes pedirle al modelo que actúe como un ingeniero de software senior para ayudarte a diseñar un sistema escalable, o como un experto en ciberseguridad para darte una auditoría de seguridad detallada, o incluso como un científico de datos para explicarte un algoritmo complejo, el límite es tu imaginación.
 
 | Prompt    | Descripción                                                                                                                                                                      | Por qué                                                                               |
 | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
@@ -51,7 +51,7 @@ Pedirle al modelo que asuma el rol de un experto puede mejorar significativament
 
 ## 3. Usa delimitadores
 
-Usar delimitadores para definir claramente el texto o la tarea a realizar puede evitar ambigüedades y mejorar la precisión de las respuestas. Los delimitadores pueden ser comillas, paréntesis, corchetes, o cualquier otro símbolo que indique claramente el inicio y el final del texto o tarea. Esto es especialmente útil cuando necesitas que la IA realice una tarea que involucra algún tipo de texto que la IA debe usar para generar la respuesta. Por ejemplo, puedes pasar diferentes archivos de tu repositorio para proporcionar a la IA el contexto necesario para generar una respuesta precisa.
+Usar delimitadores para definir claramente el texto o la tarea a realizar puede evitar ambigüedades y mejorar la precisión de las respuestas. [Los delimitadores](https://platform.openai.com/docs/guides/prompt-engineering/tactic-use-delimiters-to-clearly-indicate-distinct-parts-of-the-input) pueden ser comillas, paréntesis, corchetes, o cualquier otro símbolo que indique claramente el inicio y el final del texto o tarea. Esto es especialmente útil cuando necesitas que la IA realice una tarea que involucra algún tipo de texto que la IA debe usar para generar la respuesta. Por ejemplo, puedes pasar diferentes archivos de tu repositorio para proporcionar a la IA el contexto necesario para generar una respuesta precisa.
 
 | Prompt    | Descripción                                                                                                                 | Por qué                                                                              |
 | --------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
@@ -95,4 +95,4 @@ Algunas bibliotecas útiles de RAG para Python son: [Pinecone](https://www.pinec
 
 La ingeniería de prompts es una habilidad esencial para interactuar eficazmente con modelos de inteligencia artificial. Usar las técnicas adecuadas puede ayudarte a obtener respuestas más precisas, detalladas y útiles. Siempre recuerda ser claro y específico en tus instrucciones, y no dudes en pedirle al modelo que asuma roles específicos o verifique sus respuestas. Con práctica y creatividad, puedes dominar el arte de escribir prompts efectivos y aprovechar al máximo las capacidades de la IA. ¡Buena suerte en tu viaje de codificación! Deja en los comentarios cuáles son tus técnicas favoritas para la ingeniería de prompts y tus modelos favoritos! 🚀 
 
-Y si quieres aprender más sobre cómo convertirte en un experto en ingeniería de prompts, ¡no dudes en explorar nuestro [curso gratuito de Prompt Engineering](https://4geeks.com/interactive-exercise/prompt-engineering-exercise-course)!
+Y si quieres aprender más sobre [cómo convertirte en un experto en ingeniería de prompts](https://4geeks.com/es/lesson/como-convertirse-en-prompt-engineer), ¡no dudes en explorar nuestro [curso gratuito de Prompt Engineering](https://4geeks.com/interactive-exercise/prompt-engineering-exercise-course)!
