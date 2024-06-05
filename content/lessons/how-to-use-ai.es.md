@@ -31,7 +31,7 @@ La IA ya está presente en muchas áreas de nuestra vida cotidiana, a menudo sin
 - *Asistentes virtuales*: [Siri](https://www.apple.com/siri/), [Alexa](https://www.amazon.com/-/es/Alexa-Skills/b?ie=UTF8&node=13727921011), y [Google Assistant](https://assistant.google.com/) utilizan IA para entender y responder a nuestras preguntas.
 - *Recomendaciones de contenido*: Plataformas como [Netflix](https://www.netflix.com/) y [Spotify](https://www.spotify.com/) utilizan IA para sugerir películas, series y música basadas en nuestros gustos y hábitos de consumo.
 
-## ¿Cuáles son las plataformas más populares para usar IA?
+## ¿Cómo usar Inteligencia Artificial hoy en día?
 
 Existen numerosas plataformas que permiten a los usuarios aprovechar el poder de la IA para diversas aplicaciones. Algunas de las más populares incluyen:
 
