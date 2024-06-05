@@ -9,7 +9,10 @@ tags: ["prompt engineering", "ia generativa"]
 
 Como [desarrollador de sotfware](https://www.ibm.com/es-es/topics/software-development), probablemente uses [Inteligencia Artificial](https://es.wikipedia.org/wiki/Inteligencia_artificial) todos los días. Tal vez en tu editor de código, en tu cliente de correo electrónico, o incluso en tu [motor de búsqueda](https://www.perplexity.ai/) favorito. La IA generativa ha llegado para quedarse, y con ella, la [ingeniería de prompts](#LINK) se ha convertido en una de las [habilidades más demandadas](https://www.telefonica.com/es/sala-comunicacion/blog/prompt-engineering-profesion-mayor-demanda-futuro/) por las empresas. Un **Ingeniero de Prompts **es alguien que conoce las técnicas para lograr que un modelo de [IA generativa](https://aws.amazon.com/es/what-is/generative-ai/) produzca un resultado esperado.
 
-> La Ingeniería de Prompts se puede resumir muy brevemente con el siguiente texto: Es la habilidad de escribir instrucciones claras y lograr que una IA las siga.
+## Qué es el Prompt Engineering
+La Ingeniería de Prompts se puede resumir muy brevemente con el siguiente texto: Es la habilidad de escribir instrucciones claras y lograr que una IA las siga. Es interactuar con una IA para conseguir un objetivo. Es el arte de escribir instrucciones claras y detalladas.
+
+> Te doy un ejemplo: si le pides a un modelo de IA que te genere un resumen de un artículo, necesitas escribir un prompt que le indique al modelo qué tipo de resumen quieres, cuántas palabras debe tener, qué información debe incluir, estilo de redacción, etc.
 
 
 ## Por qué es importante la Ingeniería de Prompts
