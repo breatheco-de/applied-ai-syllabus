@@ -1,3 +1,9 @@
+---
+tags: ["prompt engineering", "generative ai"]
+description: "Learn how to use Artificial Intelligence and Generative AI to improve your workflow and create amazing content. Let's dive in! 🚀"
+
+---
+
 # How to Use Artificial Intelligence
 
 **Artificial Intelligence**, particularly **Generative Artificial Intelligence**, is taking over the world. It represents the most disruptive, useful, and frightening tool of recent years. Capable of giving chills to [some](https://www.nationalgeographic.com/science/article/ai-uncanny-valley) and fascinating others (like me). Whatever your case may be, in this article we will explore the different ways you already use or can use [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence).
