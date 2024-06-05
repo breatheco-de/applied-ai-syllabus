@@ -12,6 +12,8 @@ La verdad es que se dice muy fácil, he escuchado cosas como: «¿quién no ha u
 
 > Ya que estamos, en 4Geeks tenemos un [curso gratuito de Prompt Engineering](https://4geeks.com/interactive-exercise/prompt-engineering-exercise-course), luego te hablo de ello en más detalle.
 
+
+## Qué hace un Ingeniero de Prompts
 El trabajo de un Prompt Engineer no solo se trata de escribir cualquier cosa y esperar lo mejor. Requiere una comprensión profunda del [modelo de IA](https://www.dongee.com/tutoriales/que-son-los-modelos-de-inteligencia-artificial-y-cuales-son-los-mas-usados/) con el que se está trabajando, así como de las limitaciones y capacidades del mismo. Esto incluye saber cómo formular preguntas de manera clara y específica, cómo proporcionar el contexto adecuado y cómo ajustar los prompts en función de los resultados obtenidos. Además, debes saber identificar de manera clara una **alucinación** para que los resultados generados estén siempre libres de información falsa.
 
 > ¿Qué es una alucinación? Es cuando el modelo de IA genera información que no está respaldada por los datos de entrenamiento. Por ejemplo, si le pides a un modelo de IA que te diga cuál es el animal terrestre más grande del mundo y te responde que es un elefante, eso no es una alucinación. Pero si te responde que es un dragón, eso sí es una alucinación.
@@ -19,7 +21,7 @@ El trabajo de un Prompt Engineer no solo se trata de escribir cualquier cosa y e
 Además, un Prompt Engineer debe estar al tanto de las actualizaciones y mejoras en los modelos de IA, ya que estos están en constante evolución. Lo que funcionaba bien hace unos meses puede no ser tan efectivo hoy, y viceversa. Por lo tanto, es un campo que requiere aprendizaje continuo y adaptación.
 
 
-### Conviértete en un **Ingeniero de Prompts**
+## Conviértete en un **Ingeniero de Prompts**
 
 En 4Geeks, ofrecemos un [curso gratuito de Prompt Engineering](https://4geeks.com/interactive-exercise/prompt-engineering-exercise-course) que te enseñará las mejores prácticas y técnicas para escribir prompts efectivos. Este curso está diseñado tanto para principiantes como para aquellos que ya tienen experiencia con IA pero quieren mejorar sus habilidades. Aprenderás a identificar los errores comunes y cómo evitarlos, así como a experimentar con diferentes enfoques para encontrar el que mejor funcione para tus necesidades específicas.
 
