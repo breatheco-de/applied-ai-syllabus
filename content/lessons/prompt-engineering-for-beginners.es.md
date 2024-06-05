@@ -7,17 +7,19 @@ tags: ["prompt engineering", "ia generativa"]
 
 ![Prompt](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/main/assets/charlytoc_A_robot_chef_preparing_a_gourmet_meal_in_a_kitchen_hi_86f30105-10ac-4b6f-811c-e90be102520a.webp)
 
-La [IA generativa](https://cloud.google.com/use-cases/generative-ai?hl=es) ha llegado para quedarse, y con ello La ingeniería de prompts, mejor conocida como [Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering), se ha convertido en una de las habilidades más demandadas por las empresas en la actualidad. Un Prompt Engineer es aquella persona que conoce las técnicas para lograr que un modelo de inteligencia artificial generativa produzca un resultado esperado.
+La [IA generativa](https://cloud.google.com/use-cases/generative-ai?hl=es) ha llegado para quedarse, y con ello La ingeniería de prompts, mejor conocida como [Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering), se ha convertido en una de las habilidades más demandadas por las empresas en la actualidad. Un Prompt Engineer es aquella persona que conoce las técnicas para lograr que un modelo de [inteligencia artificial](https://es.wikipedia.org/wiki/Inteligencia_artificial) generativa produzca un resultado esperado.
 
-El Prompt Engineering puede resumirse muy brevemente con el siguiente texto: Es la habilidad para escribir instrucciones claras y lograr que una IA las siga.
 
-Cuando hablamos con una inteligencia artificial esperamos que nos entienda y haga lo que le pedimos al pie de la letra, sin embargo, un prompt mal hecho puede tender a resultados incorrectos. En esta guía descubrirás algunas de las técnicas más importantes para hacer prompts efectivos y que la IA trabaje para tus fines exactos, sea cual sea.
+## Qué es Prompt Engineering
+El Prompt Engineering puede resumirse muy brevemente con el siguiente texto: Es la habilidad para escribir instrucciones claras y lograr que una IA las siga. Sin embargo, detrás de esta definición simple se esconde un mundo de técnicas y estrategias que te permitirán obtener resultados precisos y de alta calidad.
+
+Cuando hablamos con una inteligencia artificial esperamos que nos entienda y haga lo que le pedimos al pie de la letra, sin embargo, un [prompt](https://4geeks.com/es/lesson/que-es-un-prompt) mal hecho puede tender a resultados incorrectos. En esta guía descubrirás algunas de las técnicas más importantes para hacer prompts efectivos y que la IA trabaje para tus fines exactos, sea cual sea.
 
 ¡Vamos a darle! 🎉
 
 ## 1. Escribe instrucciones claras y detalladas
 
-La primera técnica, es tan simple como redactar una instrucción claramente. Esto se dice fácil, pero mira los siguientes ejemplos para que entiendas su poder.
+La primera técnica, es tan simple como [redactar una instrucción claramente](https://platform.openai.com/docs/guides/prompt-engineering/tactic-include-details-in-your-query-to-get-more-relevant-answers). Esto se dice fácil, pero mira los siguientes ejemplos para que entiendas su poder.
 
 | Prompt    | Description                                                                                                                                                                                                                                                       | Por qué                                                                   |
 | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
@@ -28,7 +30,7 @@ En la práctica, un prompt "bueno" o "malo" realmente depende del caso de uso, p
 
 ## 2. Pídele al modelo que actúe como un experto en un área específica
 
-Solicitar al modelo que asuma el rol de un experto puede mejorar significativamente la calidad de las respuestas, respondiendo con las palabras más acordes al campo que te interesa. Esto es especialmente útil cuando necesitas información detallada y especializada sobre un tema en específico, por ejemplo, puedes pedirle al modelo que actúe como un entrenador personal para que te ayude a armar una rutina de ejercicios, o como un chef para que te dé una receta detallada de un plato en específico, o incluso como un profesor de matemáticas para que te explique un concepto complejo, el límite es tu imaginación.
+Solicitar al modelo que [asuma el rol de un experto](https://platform.openai.com/docs/guides/prompt-engineering/tactic-ask-the-model-to-adopt-a-persona) puede mejorar significativamente la calidad de las respuestas, respondiendo con las palabras más acordes al campo que te interesa. Esto es especialmente útil cuando necesitas información detallada y especializada sobre un tema en específico, por ejemplo, puedes pedirle al modelo que actúe como un entrenador personal para que te ayude a armar una rutina de ejercicios, o como un chef para que te dé una receta detallada de un plato en específico, o incluso como un profesor de matemáticas para que te explique un concepto complejo, el límite es tu imaginación.
 
 | Prompt    | Description                                                                                                                                             | Por qué                                                                               |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
@@ -37,7 +39,7 @@ Solicitar al modelo que asuma el rol de un experto puede mejorar significativame
 
 ## 3. Uso de delimitadores
 
-Utilizar delimitadores para definir claramente el texto o la tarea que se debe realizar puede evitar ambigüedades y mejorar la precisión de las respuestas. Los delimitadores pueden ser comillas, paréntesis, corchetes, o cualquier otro símbolo que indique claramente el inicio y el fin del texto o tarea. Esto es especialmente útil cuando necesitas que la IA realice una tarea que involucra algún tipo de texto que la IA debe usar para la generación de la respuesta.
+Utilizar delimitadores para definir claramente el texto o la tarea que se debe realizar puede evitar ambigüedades y mejorar la precisión de las respuestas. [Los delimitadores](https://platform.openai.com/docs/guides/prompt-engineering/tactic-use-delimiters-to-clearly-indicate-distinct-parts-of-the-input) pueden ser comillas, paréntesis, corchetes, o cualquier otro símbolo que indique claramente el inicio y el fin del texto o tarea. Esto es especialmente útil cuando necesitas que la IA realice una tarea que involucra algún tipo de texto que la IA debe usar para la generación de la respuesta.
 
 | Prompt    | Description                                                                                                    | Por qué                                                                              |
 | --------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
@@ -46,7 +48,7 @@ Utilizar delimitadores para definir claramente el texto o la tarea que se debe r
 
 ## 4. Deja que el modelo "piense"
 
-Invitar al modelo a reflexionar antes de proporcionar una respuesta puede mejorar la precisión y profundidad de la misma. Esto se puede lograr formulando preguntas que requieran un análisis más profundo o que involucren múltiples pasos para llegar a una conclusión. Por ejemplo, en lugar de pedir directamente una respuesta a un problema matemático, puedes pedir al modelo que analice el problema paso por paso y reflexione sobre la respuesta final.
+Invitar al modelo a reflexionar [antes](https://platform.openai.com/docs/guides/prompt-engineering/tactic-specify-the-steps-required-to-complete-a-task) de proporcionar una respuesta puede mejorar la precisión y profundidad de la misma. Esto se puede lograr formulando preguntas que requieran un análisis más profundo o que involucren múltiples pasos para llegar a una conclusión. Por ejemplo, en lugar de pedir directamente una respuesta a un problema matemático, puedes pedir al modelo que analice el problema paso por paso y reflexione sobre la respuesta final.
 
 | Prompt    | Description                                                                                                                                                                                                                                                | Por qué                                                                                                                                                                  |
 | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -57,7 +59,7 @@ Invitar al modelo a reflexionar antes de proporcionar una respuesta puede mejora
 
 ## 5. One shot, few shot, many shot examples
 
-Proporcionar ejemplos específicos para guiar al modelo en la generación de respuestas más precisas y alineadas con lo esperado. Los ejemplos pueden ser uno solo (one shot), unos pocos (few shot), o muchos (many shot), dependiendo de la complejidad de la tarea y la cantidad de contexto necesario. Esta es una de las técnicas más poderosas para mejorar la calidad de las respuestas de la IA, ya que le proporciona información concreta y relevante para generar una respuesta con una estructura precisa. Los ejemplos también pueden ayudar a aclarar el contexto y las expectativas del usuario, lo que puede reducir la ambigüedad y mejorar la precisión de las respuestas.
+Proporcionar ejemplos específicos para guiar al modelo en la generación de respuestas más precisas y alineadas con lo esperado. [Los ejemplos](https://platform.openai.com/docs/guides/prompt-engineering/tactic-provide-examples) pueden ser uno solo (one shot), unos pocos (few shot), o muchos (many shot), dependiendo de la complejidad de la tarea y la cantidad de contexto necesario. Esta es una de las técnicas más poderosas para mejorar la calidad de las respuestas de la IA, ya que le proporciona información concreta y relevante para generar una respuesta con una estructura precisa. Los ejemplos también pueden ayudar a aclarar el contexto y las expectativas del usuario, lo que puede reducir la ambigüedad y mejorar la precisión de las respuestas.
 
 | Prompt    | Description                                                                                                                                                        | Por qué                                                                          |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
