@@ -8,7 +8,7 @@ tags: ["prompt engineering", "ia generativa"]
 
 La **Inteligencia Artificial**, en particular la **Inteligencia Artificial Generativa** se está comiendo al mundo. Representa la herramienta más disruptiva, útil y atemorizante de los últimos años. Capaz de poner los pelos de punta a [algunos](https://www.nationalgeographic.es/ciencia/2023/06/inteligencia-artificial-por-que-asusta-valle-inquietante) y fascinar a otros (como yo).
 
-Sea cual sea tu caso, en este artículo exploraremos las distintas formas en las que ya usas o puedes usar [Inteligencia Artificial](https://es.wikipedia.org/wiki/Inteligencia_artificial).
+Sea cual sea tu caso, en este artículo exploraremos cómo Usar [Inteligencia Artificial](https://es.wikipedia.org/wiki/Inteligencia_artificial), las distintas formas en las que ya usas o podrías empezar a usar 
 
 Primero, empecemos por entender el concepto de una forma sencilla. 
 
