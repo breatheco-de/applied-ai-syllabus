@@ -1,4 +1,6 @@
 #!/bin/bash
+# Pull the latest changes from the remote repository
+git pull origin main
 
 # Add all changes to the staging area
 git add .
