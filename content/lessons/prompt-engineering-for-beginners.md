@@ -79,4 +79,4 @@ This technique consists of providing the AI with the appropriate **context**, so
 
 Prompt engineering is an essential skill for effectively interacting with artificial intelligence models. By applying these techniques, you can obtain more accurate, detailed, and useful responses. Always remember to be clear and specific in your instructions, and do not hesitate to ask the model to assume specific roles or verify its responses. With practice and creativity, you can master the art of writing effective prompts and make the most of AI capabilities. Good luck on your learning journey! 🚀
 
-And if you want to learn more about how to become a Prompt Engineer, do not hesitate to take our interactive tutorial [here](#blank). See you next time! 👋
+And if you want to learn more about how to become a Prompt Engineer, do not hesitate to take our interactive [Prompt Enginering Course](https://4geeks.com/interactive-exercise/prompt-engineering-exercise-course). See you next time! 👋

@@ -79,4 +79,4 @@ Esta técnica consiste en pasarle el **contexto** apropiado a la IA, por lo que 
 
 La ingeniería de prompts es una habilidad esencial para interactuar eficazmente con modelos de inteligencia artificial. Al aplicar estas técnicas, puedes obtener respuestas más precisas, detalladas y útiles. Recuerda siempre ser claro y específico en tus instrucciones, y no dudes en pedirle al modelo que asuma roles específicos o que verifique sus respuestas. Con práctica y creatividad, podrás dominar el arte de escribir prompts efectivos y aprovechar al máximo las capacidades de la IA. ¡Buena suerte en tu viaje de aprendizaje! 🚀
 
-Y si quieres aprender más sobre cómo convertirte en un Prompt Engineer, no dudes en hacer nuestro tutorial interactivo [aquí](#blank). ¡Hasta la próxima! 👋
+Y si quieres aprender más sobre cómo convertirte en un Prompt Engineer, no dudes en hacer nuestro curso interactivo sobre  [Prompt Engineering](https://4geeks.com/interactive-exercise/prompt-engineering-exercise-course). ¡Hasta la próxima! 👋
