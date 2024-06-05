@@ -53,3 +53,5 @@ La posibilidad de que la IA se vuelva autónoma y [desarrolle su propia intelige
 ### Conclusión
 
 Estos son solo algunas de las desventajas de la Inteligencia Artificial, que ya estamos viendo de la inteligencia artificial. Es importante señalar que la IA en sí misma no es buena ni mala, sino que depende de cómo se use. Es responsabilidad de los desarrolladores, los usuarios y la sociedad en su conjunto garantizar que la IA se utilice de manera ética y responsable. Solo así podremos aprovechar todo su potencial sin caer en las trampas que plantea.
+
+Y bueno, si quieres sacarle provecho a las **ventajas** de la IA, te invito a hacer el [curso de Prompt Engineering](https://4geeks.com/interactive-exercise/prompt-engineering-exercise-course) que tenemos en 4Geeks. ¡Es gratis! 🎉

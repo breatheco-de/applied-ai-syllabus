@@ -7,11 +7,13 @@ tags: ["prompt engineering", "ia generativa"]
 
 ![Prompt](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/main/assets/charlytoc_A_prompt_engineer_crafting_precise_instructions_for_a_f16a9847-9632-4c57-b29f-7379d19d3d1f.webp)
 
-Como desarrollador, probablemente uses IA todos los días. Tal vez en tu editor de código, en tu cliente de correo electrónico, o incluso en tu motor de búsqueda favorito. La IA generativa ha llegado para quedarse, y con ella, la ingeniería de prompts se ha convertido en una de las habilidades más demandadas por las empresas hoy en día. Un Ingeniero de Prompts es alguien que conoce las técnicas para lograr que un modelo de IA generativa produzca un resultado esperado.
+Como [desarrollador de sotfware](https://www.ibm.com/es-es/topics/software-development), probablemente uses [Inteligencia Artificial](https://es.wikipedia.org/wiki/Inteligencia_artificial) todos los días. Tal vez en tu editor de código, en tu cliente de correo electrónico, o incluso en tu [motor de búsqueda](https://www.perplexity.ai/) favorito. La IA generativa ha llegado para quedarse, y con ella, la [ingeniería de prompts](#LINK) se ha convertido en una de las [habilidades más demandadas](https://www.telefonica.com/es/sala-comunicacion/blog/prompt-engineering-profesion-mayor-demanda-futuro/) por las empresas. Un **Ingeniero de Prompts **es alguien que conoce las técnicas para lograr que un modelo de [IA generativa](https://aws.amazon.com/es/what-is/generative-ai/) produzca un resultado esperado.
 
-La Ingeniería de Prompts se puede resumir muy brevemente con el siguiente texto: Es la habilidad de escribir instrucciones claras y lograr que una IA las siga.
+> La Ingeniería de Prompts se puede resumir muy brevemente con el siguiente texto: Es la habilidad de escribir instrucciones claras y lograr que una IA las siga.
 
-Cuando hablamos con una inteligencia artificial, esperamos que nos entienda y haga exactamente lo que pedimos; sin embargo, un prompt mal hecho puede llevar a resultados incorrectos. En esta guía, descubrirás algunas de las técnicas más importantes para hacer prompts efectivos y lograr que la IA trabaje para tus propósitos exactos, arregle tu código, escriba documentación para tus proyectos, o incluso genere nuevas ideas de programas, traduzca de un lenguaje de programación a otro, y mucho más.
+
+## Por qué es importante la Ingeniería de Prompts
+Cuando hablamos con una inteligencia artificial, esperamos que nos entienda y haga exactamente lo que pedimos; sin embargo, un [prompt](https://4geeks.com/es/lesson/que-es-un-prompt) mal hecho puede llevar a resultados incorrectos. En esta guía, descubrirás algunas de las técnicas más importantes para hacer prompts efectivos y lograr que la IA trabaje para tus propósitos exactos, arregle tu código, escriba documentación para tus proyectos, o incluso genere nuevas ideas de programas, traduzca de un lenguaje de programación a otro, y mucho más.
 
 ¡Vamos a empezar! 🎉
 
@@ -88,4 +90,6 @@ Algunas bibliotecas útiles de RAG para Python son: [Pinecone](https://www.pinec
 
 ## Conclusión
 
-La ingeniería de prompts es una habilidad esencial para interactuar eficazmente con modelos de inteligencia artificial. Usar las técnicas adecuadas puede ayudarte a obtener respuestas más precisas, detalladas y útiles. Siempre recuerda ser claro y específico en tus instrucciones, y no dudes en pedirle al modelo que asuma roles específicos o verifique sus respuestas. Con práctica y creatividad, puedes dominar el arte de escribir prompts efectivos y aprovechar al máximo las capacidades de la IA. ¡Buena suerte en tu viaje de codificación! Deja en los comentarios cuáles son tus técnicas favoritas para la ingeniería de prompts y tus modelos favoritos! 🚀
+La ingeniería de prompts es una habilidad esencial para interactuar eficazmente con modelos de inteligencia artificial. Usar las técnicas adecuadas puede ayudarte a obtener respuestas más precisas, detalladas y útiles. Siempre recuerda ser claro y específico en tus instrucciones, y no dudes en pedirle al modelo que asuma roles específicos o verifique sus respuestas. Con práctica y creatividad, puedes dominar el arte de escribir prompts efectivos y aprovechar al máximo las capacidades de la IA. ¡Buena suerte en tu viaje de codificación! Deja en los comentarios cuáles son tus técnicas favoritas para la ingeniería de prompts y tus modelos favoritos! 🚀 
+
+Y si quieres aprender más sobre cómo convertirte en un experto en ingeniería de prompts, ¡no dudes en explorar nuestro [curso gratuito de Prompt Engineering](https://4geeks.com/interactive-exercise/prompt-engineering-exercise-course)!
