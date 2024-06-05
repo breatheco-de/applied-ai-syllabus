@@ -11,7 +11,9 @@ tags: ["prompt engineering", "ia generativa"]
 
 La IA generativa es un campo de la [inteligencia artificial](https://cloud.google.com/learn/what-is-artificial-intelligence?hl=es-419) que se enfoca en crear [modelos](https://www.ibm.com/topics/ai-model#:~:text=An%20AI%20model%20is%20a,they've%20been%20programmed%20for.) que pueden generar nuevo contenido, basado en un conjunto de datos de entrenamiento. Es como enseñar a un robot a pintar; primero, le muestras miles de pinturas y luego le pides que cree su propia obra de arte. De esta manera, todos los modelos actuales de IA generativa están [entrenados](https://www.clickworker.com/customer-blog/process-of-ai-training/) en una gran cantidad de datos.
 
-Un prompt es el dato de entrada que le das al modelo para generar nuevo contenido. Puede ser un texto, una imagen, un sonido o cualquier tipo de dato que el modelo esté entrenado para entender. El prompt es el punto de partida para que el modelo genere una salida basada en los patrones que ha aprendido de los datos de entrenamiento.
+
+## Qué es un prompt
+Un **prompt** es el dato de entrada que le das al modelo para generar nuevo contenido. Puede ser un texto, una imagen, un sonido o cualquier tipo de dato que el modelo esté entrenado para entender. El prompt es el punto de partida para que el modelo genere una salida basada en los patrones que ha aprendido de los datos de entrenamiento.
 
 Por ejemplo, si quieres generar una imagen de una manzana roja, le darías al modelo un prompt de texto que diga "manzana roja". El modelo entonces usará su conocimiento de los datos de entrenamiento para generar una imagen de una manzana roja basada en el prompt de entrada.
 
@@ -30,3 +32,11 @@ Estos son algunos modelos y sus datos de entrada y salida en una tabla:
 | [MidJourney](https://www.midjourney.com/home)                      | Texto o imágenes                                           | Imágenes                                                                                                     |
 | [Gemini Ultra](https://deepmind.google/technologies/gemini/ultra/) | Texto, Audio,                                              |
 | Imágenes                                                           | Texto                                                      |
+
+
+## Prompt Engineer
+Aprender el concepto de prompt es fundamental para convertirte en un **Ingeniero de Prompts**. Un Prompt Engineer es aquella persona que se encarga de escribir *prompts efectivos* para interactuar con un modelo de IA y conseguir siempre *el mismo resultado*. O mejor dicho, la misma estructura de resultado.
+
+Si eres un principiante, te recomiendo esta este artículo sobre [qué es Prompt Engineering](https://4geeks.com/lesson/prompt-engineering-for-beginners). Y si luego quieres profundizar un poco más, te invito a que hagas nuestro [curso gratuito de Prompt Engineering](https://4geeks.com/interactive-exercise/prompt-engineering-exercise-course).
+
+En resumen, un prompt es el punto de partida para que un modelo de IA genere nuevo contenido. Aprender a crear prompts efectivos es fundamental para obtener los mejores resultados de la IA generativa.
