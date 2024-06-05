@@ -3,7 +3,7 @@ description: "Domina el arte de la Ingeniería de Prompts para aprovechar al má
 tags: ["prompt engineering", "ia generativa"]
 ---
 
-# Prompt Engineering for Beginners 🤖
+# Qué es Prompt Engineering 🤖
 
 ![Prompt](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/main/assets/charlytoc_A_robot_chef_preparing_a_gourmet_meal_in_a_kitchen_hi_86f30105-10ac-4b6f-811c-e90be102520a.webp)
 
