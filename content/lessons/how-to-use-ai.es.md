@@ -62,6 +62,8 @@ Existen numerosas plataformas que permiten a los usuarios aprovechar el poder de
 
 ### Y muchas, muchísimas más.
 
-En resumen, la Inteligencia Artificial Generativa está revolucionando la forma en que interactuamos con la tecnología y el contenido digital. Ya sea que te sientas fascinado o intimidado por ella, es innegable que la IA está aquí para quedarse y seguirá transformando nuestras vidas de maneras sorprendentes e innovadoras.
+
+En resumen, la Inteligencia Artificial Generativa está revolucionando la forma en que interactuamos con la tecnología y el contenido digital. Ya sea que te sientas fascinado o intimidado por ella, es innegable que la IA está aquí para quedarse y seguirá transformando nuestras vidas de maneras sorprendentes e innovadoras. Aprender cómo usar inteligencia artificial, puede ayudarte a optimizar tus procesos laborales, o quién sabe, a crear la próxima gran obra maestra o trabajar como [Prompt Engineer](https://4geeks.com/es/lesson/prompt-engineering-para-principiantes).
+
 
 Y si quieres convertirte en un maestro de los prompts y que ninguna IA se te resista, haz nuestro curso gratuito de Prompt Engineering [aquí](https://4geeks.com/interactive-exercise/prompt-engineering-exercise-course)
