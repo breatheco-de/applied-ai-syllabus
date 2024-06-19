@@ -1,25 +1,22 @@
 ---
 description: "Aprende cómo usar la Inteligencia Artificial y la IA Generativa para mejorar tu flujo de trabajo y crear contenido increíble. ¡Vamos a ello! 🚀"
 tags: ["prompt engineering", "ia generativa"]
-
+title: "Cómo Usar Inteligencia Artificial"
 ---
 
-# Como Usar Inteligencia Artificial
+La **Inteligencia Artificial**, en particular la **Inteligencia Artificial Generativa** se está comiendo al mundo. Representa la herramienta más disruptiva, útil y atemorizante de los últimos años. Capaz de [poner los pelos de punta a  algunos](https://www.nationalgeographic.es/ciencia/2023/06/inteligencia-artificial-por-que-asusta-valle-inquietante) y fascinar a otros (como yo).
 
-La **Inteligencia Artificial**, en particular la **Inteligencia Artificial Generativa** se está comiendo al mundo. Representa la herramienta más disruptiva, útil y atemorizante de los últimos años. Capaz de poner los pelos de punta a [algunos](https://www.nationalgeographic.es/ciencia/2023/06/inteligencia-artificial-por-que-asusta-valle-inquietante) y fascinar a otros (como yo).
+Sea cual sea tu caso, en este artículo exploraremos [cómo usar inteligencia artificial](https://es.wikipedia.org/wiki/Inteligencia_artificial), las distintas formas en las que ya usas o podrías empezar a usarla para cumplir tus expectativas. 
 
-Sea cual sea tu caso, en este artículo exploraremos cómo Usar [Inteligencia Artificial](https://es.wikipedia.org/wiki/Inteligencia_artificial), las distintas formas en las que ya usas o podrías empezar a usar 
+Primero, empecemos por entender el [concepto de inteligencia artificial de una forma sencilla.](https://4geeks.com/es/lesson/que-es-la-inteligencia-artificial-generativa) 
 
-Primero, empecemos por entender el concepto de una forma sencilla. 
-
-> [Aquí](https://4geeks.com/lesson/artificial-intelligence-in-simple-terms) te dejo un artículo más detallado con algunos conceptos importantes.
 
 ## ¿Qué es la inteligencia artificial?
 La **Inteligencia Artificial** (IA) es una rama de la informática que se dedica a crear sistemas capaces de realizar tareas que, normalmente, requieren de la inteligencia humana. Estas tareas incluyen el reconocimiento de voz, la toma de decisiones, la traducción de idiomas y mucho más. La IA se basa en algoritmos y modelos matemáticos que permiten a las máquinas aprender de los datos y mejorar su rendimiento con el tiempo.
 
 ## ¿Qué es la IA Generativa?
 
-La [IA Generativa](https://es.wikipedia.org/wiki/Inteligencia_artificial_generativa) es un subcampo de la inteligencia artificial que se centra en la creación de contenido nuevo y original. A diferencia de otras formas de IA que se limitan a analizar y clasificar datos existentes, la IA Generativa puede producir texto, imágenes, música y otros tipos de contenido a partir de patrones y ejemplos previos. Esto se logra mediante el uso de redes neuronales profundas y modelos avanzados como los [transformadores](https://la.blogs.nvidia.com/blog/que-es-un-modelo-transformer/).
+La [IA Generativa es un subcampo de la inteligencia artificial](https://es.wikipedia.org/wiki/Inteligencia_artificial_generativa) que se centra en la **creación de contenido nuevo y original**. A diferencia de otras formas de IA que se limitan a analizar y clasificar datos existentes, la IA Generativa puede producir texto, imágenes, música y otros tipos de contenido a partir de patrones y ejemplos previos. Esto se logra mediante el uso de redes neuronales profundas y modelos avanzados [como los transformadores](https://la.blogs.nvidia.com/blog/que-es-un-modelo-transformer/).
 
 ## ¿Cuáles son los usos preexistentes de IA?
 
@@ -58,12 +55,12 @@ Existen numerosas plataformas que permiten a los usuarios aprovechar el poder de
 
 
 
-- *[Runway](https://runwayml.com/)*: Una plataforma que ofrece herramientas de IA para la creación de contenido multimedia, incluyendo video y gráficos. Te permite sincronizar labios a partir de un vídeo o imagen y un audio, generar vídeos, extenderlos en tiempo o tamaño, y mucho más. Comienzas con un plan gratuito, pero para algunas características necesitarás pagar una suscripción.
+- *[Runway](https://runwayml.com/)*: Una plataforma que ofrece **herramientas de IA **para la creación de contenido multimedia, incluyendo video y gráficos. Te permite sincronizar labios a partir de un vídeo o imagen y un audio, generar vídeos, extenderlos en tiempo o tamaño, y mucho más. Comienzas con un plan gratuito, pero para algunas características necesitarás pagar una suscripción.
 
 ### Y muchas, muchísimas más.
 
 
-En resumen, la Inteligencia Artificial Generativa está revolucionando la forma en que interactuamos con la tecnología y el contenido digital. Ya sea que te sientas fascinado o intimidado por ella, es innegable que la IA está aquí para quedarse y seguirá transformando nuestras vidas de maneras sorprendentes e innovadoras. Aprender cómo usar inteligencia artificial, puede ayudarte a optimizar tus procesos laborales, o quién sabe, a crear la próxima gran obra maestra o trabajar como [Prompt Engineer](https://4geeks.com/es/lesson/prompt-engineering-para-principiantes).
+En resumen, la **Inteligencia Artificial Generativa** está revolucionando la forma en que interactuamos con la tecnología y el contenido digital. Ya sea que te sientas fascinado o intimidado por ella, es innegable que la IA está aquí para quedarse y seguirá transformando nuestras vidas de maneras sorprendentes e innovadoras. Aprender  [cómo usar inteligencia artificial](https://4geeks.com/es/lesson/prompt-engineering-para-principiantes), puede ayudarte a optimizar tus procesos laborales, o quién sabe, a crear la próxima gran obra maestra o [trabajar como Prompt Engineer](https://4geeks.com/es/lesson/como-convertirse-en-prompt-engineer).
 
 
-Y si quieres convertirte en un maestro de los prompts y que ninguna IA se te resista, haz nuestro curso gratuito de Prompt Engineering [aquí](https://4geeks.com/interactive-exercise/prompt-engineering-exercise-course)
+Y si quieres convertirte en un maestro de los prompts y que ninguna IA se te resista, haz nuestro [curso gratuito de Prompt Engineering aquí](https://4geeks.com/es/interactive-exercise/curso-de-prompt-engineering)

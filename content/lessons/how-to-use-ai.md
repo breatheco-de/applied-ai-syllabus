@@ -1,10 +1,9 @@
 ---
 tags: ["prompt engineering", "generative ai"]
 description: "Learn how to use Artificial Intelligence and Generative AI to improve your workflow and create amazing content. Let's dive in! 🚀"
-
+title: "How to Use Artificial Intelligence"
 ---
 
-# How to Use Artificial Intelligence
 
 **Artificial Intelligence**, particularly **Generative Artificial Intelligence**, is taking over the world. It represents the most disruptive, useful, and frightening tool of recent years. Capable of giving chills to [some](https://www.nationalgeographic.com/science/article/ai-uncanny-valley) and fascinating others (like me). Whatever your case may be, in this article we will explore the different ways you already use or can use [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence).
 
@@ -45,6 +44,7 @@ There are numerous platforms that allow users to harness the power of AI for var
 
 ### And many, many more.
 
-In summary, Generative Artificial Intelligence is revolutionizing the way we interact with technology and digital content. Whether you are fascinated or intimidated by it, it is undeniable that AI is here to stay and will continue to transform our lives in surprising and innovative ways.
+In summary, Generative Artificial Intelligence is revolutionizing the way we interact with technology and digital content. Whether you are fascinated or intimidated by it, it is undeniable that AI is here to stay and will continue to transform our lives in surprising and innovative ways. Learn [more about AI in simple terms](https://4geeks.com/lesson/artificial-intelligence-in-simple-terms) and [how to become a Prompt Engineer](https://4geeks.com/lesson/how-to-become-a-prompt-engineer) to optimize your work processes or create the next great masterpiece.
 
-And if you want to become a master of prompts and make sure no AI can resist you, take our free Prompt Engineering course [here](https://4geeks.com/interactive-exercise/prompt-engineering-exercise-course).
+
+And if you want to become a master of prompts and make sure no AI can resist you, take our [free Prompt Engineering course](https://4geeks.com/interactive-exercise/prompt-engineering-exercise-course).
