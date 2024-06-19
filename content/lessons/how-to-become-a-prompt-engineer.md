@@ -3,8 +3,6 @@ description: "Learn how to become a Prompt Engineer and create effective prompts
 tags: ["prompt engineering", "generative ai"]
 ---
 
-# How to Become a Prompt Engineer
-
 ![Prompt](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/main/assets/charlytoc_A_collage_of_various_data_types_like_text_images_and__25f517b0-5ec4-40ec-8433-454e9575b8e6.webp)
 
 **Prompt Engineering** is the art of **creating effective prompts** so that an **Artificial Intelligence** (AI) can serve your needs. [There are many Prompting techniques](https://4geeks.com/es/lesson/que-es-prompt-engineering) you can use to become a great **Prompt Engineer**. This essay will cover some of the most important aspects of Prompt Engineering and provide you with some tips on how to become a great Prompt Engineer.
@@ -31,7 +29,7 @@ As a Prompt Engineer, your job essentially involves **writing, executing, and re
 
 Generally, **a longer prompt will provide more context to the AI**, which can help it generate a more accurate and relevant result. However, a longer prompt can also introduce more noise and make it harder for the AI to generate the desired result. That is why it is so important to use the [appropriate prompting techniques](https://4geeks.com/es/lesson/que-es-prompt-engineering).
 
-## Where Can I Learn More About Prompt Engineering?
+## So, how to Become a Prompt Engineer?
 
 If you want to learn more about Prompt Engineering, there are many resources available online. You can find tutorials, articles, videos, and other resources that can help you improve your skills in Prompt Engineering. Some of the best resources to learn about Prompt Engineering include:
 
