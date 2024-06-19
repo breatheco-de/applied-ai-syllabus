@@ -3,8 +3,6 @@ description: "If you haven't heard that the new title for the past few years is 
 tags: ["prompt engineering", "generative ai"]
 ---
 
-# Prompt Engineer
-
 If you haven't heard that the new title for the past few years is [Prompt Engineer](https://en.wikipedia.org/wiki/Prompt_engineering), you haven't used enough artificial intelligence for Google to suggest it to you.
 
 > A Prompt Engineer is someone who writes *effective prompts* to interact with an AI model and always achieve *the same result*. Or rather, the same result structure.

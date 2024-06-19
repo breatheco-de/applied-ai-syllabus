@@ -5,7 +5,7 @@ description: "Master the art of Prompt Engineering to maximize the potential of 
 tags: ["prompt engineering", "generative ai"] 
 ---
 
-# Prompt Engineering for Beginners 🤖  
+
 ![Prompt](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/main/assets/charlytoc_A_robot_chef_preparing_a_gourmet_meal_in_a_kitchen_hi_86f30105-10ac-4b6f-811c-e90be102520a.webp)  
 
 [Generative AI](https://cloud.google.com/use-cases/generative-ai?hl=es) is here to stay, and with it, Prompt Engineering has become one of the most in-demand skills for companies today. A Prompt Engineer is someone who knows the techniques to get a generative [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) model to produce an expected result.   

@@ -3,8 +3,6 @@ description: "Aprende qué es un prompt y cómo se usa en la inteligencia artifi
 tags: ["prompt engineering", "ia generativa"]
 ---
 
-# ¿Qué es un Prompt?
-
 ![Prompt](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/main/assets/charlytoc_A_robot_painting_a_canvas_symbolizing_how_generative__3197b88a-ba34-4d2e-9d42-0bd8777dd9c2.webp)
 
 > Un prompt es el dato de entrada que le das al modelo de IA para generar nuevo contenido. Puede ser un texto, una imagen, un sonido o cualquier tipo de dato que el modelo esté entrenado para entender.
