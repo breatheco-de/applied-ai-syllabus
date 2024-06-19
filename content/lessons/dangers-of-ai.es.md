@@ -1,9 +1,9 @@
 ---
 description: "Explora las desventajas más comunes de la Inteligencia Artificial y cómo podemos mitigarlas."
 tags: ["ia generativa"]
----
+title: "Desventajas de la Inteligencia Artificial"
 
-# Desventajas de la Inteligencia Artificial
+---
 
 Ay, La IA, esa herramienta que existe desde hace décadas, pero que hoy en día es cuando está en boca de todos debido a su uso masivo. El avance de la tecnología ha permitido que la IA se convierta en una herramienta indispensable en muchos campos distintos, pero también ha traído consigo una serie de desventajas que es importante tener en cuenta. En este artículo, exploraremos algunas de las desventajas más comunes de la IA y cómo podemos mitigarlas.
 

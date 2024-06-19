@@ -1,9 +1,9 @@
 ---
 description: "Artificial Intelligence has brought many benefits, but it also has its disadvantages. In this article, we explore some of the most common disadvantages of AI and how we can mitigate them."
 tags: ["generative ai"]
----
+title: "Disadvantages of Artificial Intelligence"
 
-# Disadvantages of Artificial Intelligence
+---
 
 Oh, AI, that tool that has existed for decades but is now on everyone's lips due to its massive use. The advancement of technology has allowed AI to become an indispensable tool in many different fields, but it has also brought with it a series of disadvantages that are important to consider. In this article, we will explore some of the most common disadvantages of AI and how we can mitigate them.
 
