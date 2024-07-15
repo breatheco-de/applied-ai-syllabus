@@ -1,5 +1,12 @@
 # Applied AI Syllabus
 
+```
+Todos:
+- Agregar seccion explicando como usar la interfaz de ChatGPT.
+- Aclarar bien cuales son los tools especificos que vas a usar.
+- Agregar generacion de audio.
+```
+
 Course Schedule:
 
 ### `Week 1`: Introduction to AI and its Importance in the Workplace.  
