@@ -39,3 +39,4 @@ Aprender el concepto de prompt es fundamental para [convertirte en un Ingeniero 
 Si eres un principiante, te recomiendo esta este artículo sobre [qué es Prompt Engineering](https://4geeks.com/lesson/prompt-engineering-for-beginners). Y si luego quieres profundizar un poco más, te invito a que hagas nuestro [curso gratuito de Prompt Engineering](https://4geeks.com/es/interactive-exercise/curso-de-prompt-engineering).
 
 En resumen, un prompt es el punto de partida para que un modelo de IA genere nuevo contenido. Aprender a crear prompts efectivos es fundamental para obtener los mejores resultados de la IA generativa.
+
