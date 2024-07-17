@@ -109,3 +109,52 @@ Master's degree in CS, Mathematics, or Engineering
 • Hands on experience in creating Embedding using MPNET, Ada models
 • Ability to use advanced techniques like HyDE, MMR, LLM reranking for effective semantic search
 ```
+
+<!--
+- Learn under an Agile Method
+- Visual Generative AI strong understanding ✅
+- Product development with LLMs using Python and Javascript (React) ✅
+  - Build a chatbot ✅
+  - Interactive Voice Agent
+- Proven experience in tech/product Gen AI. ✅
+- Good coding practices ✅
+- Software development deep understanding ✅
+
+- Use Vector Databases systems to build fully contextualized application
+  - Use Effective Semantic Search, LLM Reranking (Large Language Model Reranking), MMR (Maximal Marginal Relevance), HyDE (Hybrid Dense Retrieval)
+  - Embed words or audio to add context to an AI system
+  - Use RAG (Retrieval Augmented Generation)
+
+- Understand different types of neural networks and use them to build apps
+  - Work with transformers
+  - Transcribe audio
+  - Generate speech
+  - Generate images
+
+- Use widely known APIs with security considerations
+  - OpenAI, Anthropic, Groq
+  - Work with GPT-4o, Claude 3.5 sonnet, and many other state-of-the-art models
+
+- Make apps with popular libraries and frameworks  
+   - LangChain
+   - Ollama
+   - Llama-Index
+   - Chroma
+   - OpenAI
+   - FastAPI
+
+- Hands-on with open Source/open weights models 
+   - Llama 3-8b
+   - Llama 3-70B
+   - Mixtral
+   - Codestral
+- Model finetuning: Let AI understand your data
+- Importance of metrics in AI development
+
+Articles:
+- How to be a succesful developer
+- How to be communicative
+- Leadership: Stop being a follower
+- How to run AI locally: Minimun requirements
+
+-->
