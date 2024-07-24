@@ -111,11 +111,10 @@ Master's degree in CS, Mathematics, or Engineering
 ```
 
 <!--
-- Learn under an Agile Method
 - Visual Generative AI strong understanding ✅
-- Product development with LLMs using Python and Javascript (React) ✅
-  - Build a chatbot ✅
-  - Interactive Voice Agent
+- Product development with LLMs using Python and Javascript 
+  - Build a chatbot 
+  - Interactive Voice Agent (IVR)
 - Proven experience in tech/product Gen AI. ✅
 - Good coding practices ✅
 - Software development deep understanding ✅

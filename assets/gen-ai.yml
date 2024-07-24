@@ -17,7 +17,7 @@ apply_form:
 seo_title: "Generative AI Developer Course"
 header:
   title: "Become a Generative AI Developer"
-  paragraph: "Learn to create and apply generative AI models in real projects and take your skills to the next level!"
+  paragraph: "Learn to develop Generative AI applications from scratch and secure a job in a rapidly expanding industry with salaries ranging from 120k to 250k!"
   image: "../../../static/images/bg/circles.jpg"
   image_alt: "circles"
 
@@ -38,13 +38,13 @@ course_instructors:
       degree: "Fullstack AI Developer"
       image: "../../../static/images/instructors/charly.jpeg"
       bio: | 
-        I have been passionate about science, mathematics, and teaching my friends since I was a child.
+        My name is Charly, I like numbers, cooking, music, and sleeping in the mountains. I have been working as a full-stack developer for 3 years in various programming languages.
 
-        As I grew up, I studied Biology and later completed a fullstack programming bootcamp. Programming came easily to me due to my love for numbers and logic, and gradually, I learned many more technologies.
+        One of the apps I have developed allows you to learn programming interactively, with an integrated AI tutor, and many ways to help the student. It currently has over 20,000 active users per month, helping each user personally thanks to advanced techniques like Retrieval Augmented Generation.
 
-        Today, I focus on developing applications with Generative Artificial Intelligence, teaching, making YouTube videos, and I have many ideas to show the magic of computing. With dedication and effort, we can bring all our ideas to life.
-        
-        My name is Charly, and if you are passionate about the world of technology, and specifically Artificial Intelligence, get ready, because this technology is here to stay. My goal is to teach you everything I know about it, from a technical, theoretical, and practical standpoint. Are you ready?
+        I have also developed a multimodal agent capable of executing SQL queries, performing data analysis and engineering, and using semantic search to specifically meet each requirement.
+
+        I will teach you everything I know about AI applications in this course, are you ready?
       linkedin: "https://www.linkedin.com/in/charlytoc/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
 
 badges:
@@ -68,18 +68,17 @@ details:
   about:
     title: "About this program"
     sub_title: |
-      This Generative AI Developer course is designed for those looking to develop advanced skills in generative AI and apply them in real projects. Over sixteen weeks, participants will gain a comprehensive understanding of generative AI and its practical applications in various industries.
-      The course covers essential concepts such as model finetuning, vector and relational databases, and advanced semantic search techniques. Participants will learn to train and adjust language models, develop full-stack applications with LLMs, using third-party services or open source models, how to deploy applications and build stable and secure arquitectures for AI applications. 
+      Este curso está diseñado para que empieces una carrera como desarrollador de AI generativa, entrenándote específicamente en las cosas que buscan las empresas o potenciales empleadores. Enseñamos Python porque es el claro dominante en el mercado de Ciencia de Datos, AI, Machine Learning, etc. Aprenderás las tecnologías, harás proyectos reales como chatbots, agentes autónomos, tutores, y muchos más, y adquirirás habilidades esenciales como técnicas de prompting y liderazgo.
         
     list:
       - label: "Duration"
-        content:  "16 weeks"
+        content:  "24 weeks"
         icon: "calendar"
       - label: "Classes"
-        content: "2 Classes per week"
+        content: "3 Classes per week"
         icon: "book"
       - label: "Class Size"
-        content: "12 people max"
+        content: "14 people max"
         icon: "laptop"
       - label: "Certificate"
         content: "Our certificates are recognized by multiple institutions."
@@ -89,12 +88,12 @@ details:
         icon: "contract-checked"
 
   heading: "PROGRAM DETAILS"
-  weeks: 16
+  weeks: 24
   facts:
     - label: "Duration"
-      value: "16 weeks"
+      value: "24 weeks"
     - label: "Commitment"
-      value: "2 live sessions each week, each session 3 hours, totaling 96 hours"
+      value: "3 live sessions each week, each session 3 hours, totaling 216 hours"
     - label: "Certificate"
       content: "Our certificates are recognized by multiple institutions."
       link_text: "See example"
@@ -105,8 +104,8 @@ details:
     - label: "Class Size"
       value: "Up to 14 people"
     - label: "Total Hours"
-      value: "96"
-  sub_heading: "16-week course for professionals who want to develop advanced skills in generative AI."
+      value: "216"
+  sub_heading: "24-week course for professionals who want to develop advanced skills in generative AI."
   left_labels:
     description: "DESCRIPTION:"
     projects: "PROJECTS:"
@@ -116,31 +115,45 @@ details:
     - module_name: "Fundamentals of Artificial Intelligence"
       title: "Section 1: Fundamentals of Artificial Intelligence"
       description: "Learn the necessary concepts of Artificial Intelligence to understand the syllabus and become familiar with them. Theoretically understand the functioning and training of an AI model."
-      projects: ""
+      projects: "Develop a simple AI model to classify images."
       slug: "fundamentals-of-artificial-intelligence"
       duration: "4 weeks"
       step: 1
     - module_name: "Tools and Generation Practices"
       title: "Section 2: Tools and Generation Practices"
       description: "Learn about the tools used during the course and become familiar with the work environment, obtain API KEYs if necessary. Familiarize yourself with the most important APIs and libraries for developing AI apps and generate each type of data needed during the course."
-      projects: ""
+      projects: "Generate text, images, and audio using different APIs."
       slug: "tools-and-generation-practices"
       duration: "4 weeks"
       step: 2
     - module_name: "AI Application Development"
       title: "Section 3: AI Application Development"
       description: "Develop various AI applications and understand their architecture, challenges, limitations, and best practices."
-      projects: "Develop a chatbot using Node and React. Create a local application capable of searching documents, opening them, and answering questions about them."
+      projects: "Develop a chatbot using Python and Flask. Create a local application capable of searching documents, opening them, and answering questions about them."
       slug: "ai-application-development"
-      duration: "4 weeks"
+      duration: "6 weeks"
       step: 3
     - module_name: "Advanced Techniques and Deployment"
       title: "Section 4: Advanced Techniques and Deployment"
       description: "Use advanced techniques to build fully contextualized applications and improve AI generation. Understand the different ways to deploy an AI application, options, and recommendations."
       projects: "Complete a final fullstack project capable of generating at least two different types of data, and receiving inputs in the form of text, audio, and images. Additionally, the application must have at least one associated function that the AI can call and manage memory appropriately."
       slug: "advanced-techniques-and-deployment"
-      duration: "4 weeks"
+      duration: "6 weeks"
       step: 4
+    - module_name: "HTML/CSS and JavaScript Basics"
+      title: "Section 5: HTML/CSS and JavaScript Basics"
+      description: "Learn the basics of web development with HTML, CSS, and JavaScript to create interactive and responsive web applications."
+      projects: "Create a simple web page with interactive elements."
+      slug: "html-css-javascript-basics"
+      duration: "2 weeks"
+      step: 5
+    - module_name: "Machine Learning with Data Science"
+      title: "Section 6: Machine Learning with Data Science"
+      description: "Learn the fundamentals of machine learning and data science, including data preprocessing, model training, and evaluation."
+      projects: "Develop a machine learning model to predict housing prices."
+      slug: "machine-learning-data-science"
+      duration: "2 weeks"
+      step: 6
 
 syllabus:
   heading: Download all the information about this program
