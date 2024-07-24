@@ -1,4 +1,3 @@
-
 ```txt
 
 Strong understanding of AI and machine learning concepts, especially in the Visual Generative AI domain.
@@ -9,6 +8,7 @@ Experience in community building and engagement.
 Ability to travel as needed for conferences, meetups, and other events.
 A bachelor's or higher degree in Computer Science, AI, Machine Learning, or a related field is preferred.
 ```
+
 ✅
 
 ```txt
@@ -22,38 +22,46 @@ Solid understanding on framework like Langchain, Haystack and ability to use Age
 Handson experience in creating Embedding using MPNET, Ada models
 Ability to use advanced techniques like HyDE, MMR, LLM reranking for effective semantic search
 ```
+
 ✅
+
 ```txt
-AI/ML Development: Train and fine-tine transformer models using PyTorch and HuggingFace. We're currently bootstrapping with GPT-4 in production, but are working on training and finetuning our own generative models for various applications. 
+AI/ML Development: Train and fine-tine transformer models using PyTorch and HuggingFace. We're currently bootstrapping with GPT-4 in production, but are working on training and finetuning our own generative models for various applications.
 
 
 
-Full-Stack Development: Develop full-stack applications with large language models (LLMs). 
-
- 
-Collaboration: Work closely with the AI/ML team and cross-functional teams to integrate AI/ML solutions into Clearpol's products and services. 
+Full-Stack Development: Develop full-stack applications with large language models (LLMs).
 
 
+Collaboration: Work closely with the AI/ML team and cross-functional teams to integrate AI/ML solutions into Clearpol's products and services.
 
-Research and Innovation: Stay up-to-date with the latest AI/ML technologies and trends. Drive innovation by implementing new technologies and approaches. 
+
+
+Research and Innovation: Stay up-to-date with the latest AI/ML technologies and trends. Drive innovation by implementing new technologies and approaches.
 ```
+
 ✅
+
 ```txt
 Deep expertise in Visual Gen-AI, AI, & machine learning.
 Proven experience in Gen-AI technology & development. The magic touch to communicate complex ideas to diverse audiences.
 A passion for building & engaging communities.
 A hunger to learn & travel (conferences, anyone?).
 ```
+
 ✅
+
 ```txt
-Experience: Proven experience in AI/ML development roles with a focus on NLP. Experience in the healthcare industry or working with healthcare data is a plus. 
+Experience: Proven experience in AI/ML development roles with a focus on NLP. Experience in the healthcare industry or working with healthcare data is a plus.
 
 
 
-Technical Skills: Proficiency in training, finetuning, and evaluating transformer models using PyTorch and HuggingFace. Experience in developing full-stack applications with large language models (LLMs). Familiarity with Python, PyTorch, huggingface-transformers, and LLM orchestration frameworks such as langchain. 
+Technical Skills: Proficiency in training, finetuning, and evaluating transformer models using PyTorch and HuggingFace. Experience in developing full-stack applications with large language models (LLMs). Familiarity with Python, PyTorch, huggingface-transformers, and LLM orchestration frameworks such as langchain.
 ```
+
 - Visual Generative AI strong understanding ✅
 - Product development with LLMs using Python and Javascript (React) ✅
+
   - Build a chatbot ✅
   - Interactive Voice Agent
 
@@ -68,11 +76,9 @@ Technical Skills: Proficiency in training, finetuning, and evaluating transforme
 - Model finetuning: Let AI understand your data
 
 Articles:
+
 - How to be a succesful developer
 - How to be communicative
-
-
-
 
 ```txt
 Requirements:
@@ -81,7 +87,7 @@ Requirements:
 Experience with Generative AI, transformers, and LLM projects ✅
 Familiarity with frameworks like Huggingface, LangChain, or GPT ✅
 Ability to distill technical concepts for non-technical audiences 👀
-Bachelor's degree 
+Bachelor's degree
 Ability to obtain and maintain Public Trust or Suitability/Fitness determination ❔
 
 
@@ -89,13 +95,12 @@ Preferred Qualifications:
 2+ years applying large language and generative AI models
 Experience finetuning LLMs ✅
 Proficiency in API design, Containerization, and DevOps
-Leadership experience in Agile teams 
+Leadership experience in Agile teams
 Knowledge of ML model testing, evaluation, and governance
 Familiarity with HITL systems, explainability metrics, and responsible AI
 Understanding of ML model life cycle processes and considerations for hardware deployment
 Master's degree in CS, Mathematics, or Engineering
 ```
-
 
 ```txt
 
@@ -112,8 +117,8 @@ Master's degree in CS, Mathematics, or Engineering
 
 <!--
 - Visual Generative AI strong understanding ✅
-- Product development with LLMs using Python and Javascript 
-  - Build a chatbot 
+- Product development with LLMs using Python and Javascript
+  - Build a chatbot
   - Interactive Voice Agent (IVR)
 - Proven experience in tech/product Gen AI. ✅
 - Good coding practices ✅
@@ -134,7 +139,7 @@ Master's degree in CS, Mathematics, or Engineering
   - OpenAI, Anthropic, Groq
   - Work with GPT-4o, Claude 3.5 sonnet, and many other state-of-the-art models
 
-- Make apps with popular libraries and frameworks  
+- Make apps with popular libraries and frameworks
    - LangChain
    - Ollama
    - Llama-Index
@@ -142,7 +147,7 @@ Master's degree in CS, Mathematics, or Engineering
    - OpenAI
    - FastAPI
 
-- Hands-on with open Source/open weights models 
+- Hands-on with open Source/open weights models
    - Llama 3-8b
    - Llama 3-70B
    - Mixtral

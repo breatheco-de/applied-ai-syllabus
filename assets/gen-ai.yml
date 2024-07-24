@@ -1,15 +1,7 @@
 meta_info:
   slug: generative-ai-developer-course
   title: "Generative AI Developer Course"
-  description: "Develop advanced skills in generative AI and learn to apply language models and machine learning techniques in real projects. No prior knowledge required."
-  bc_slug: "generative-ai-developer"
-  template: "course-generative-ai-developer"
-  image: "/images/og-preview/generative-ai-bg-en.jpg"
-  visibility: "visible"
-  keywords: ""
-  show_in_apply: true
-  redirects: ["/en/generative-ai-developer"]
-  related_clusters: ["trends-and-tech"]
+  description: "Become an AI application developer with Python. Develop apps with the most powerful LLMs on the market like GPT 4 Omni or Claude 3.5 Sonnet. Learn fullstack software development, create real projects like chatbots or autonomous agents. Apply to the thousands of job offers available today with salaries ranging from 100k to 250k!"
 
 apply_form:
   label: Generative AI Developer
@@ -30,7 +22,7 @@ button:
 course_instructors:
   header:
     title: "Meet Our Instructors"
-    paragraph: "All our instructors are qualified teachers with proven expertise in technical, teorical and practical skills"
+    paragraph: "All our instructors are qualified teachers with proven expertise in technical, theoretical, and practical skills"
 
   instructors:
     - name: "Charly Chacon"
@@ -68,14 +60,14 @@ details:
   about:
     title: "About this program"
     sub_title: |
-      Este curso está diseñado para que empieces una carrera como desarrollador de AI generativa, entrenándote específicamente en las cosas que buscan las empresas o potenciales empleadores. Enseñamos Python porque es el claro dominante en el mercado de Ciencia de Datos, AI, Machine Learning, etc. Aprenderás las tecnologías, harás proyectos reales como chatbots, agentes autónomos, tutores, y muchos más, y adquirirás habilidades esenciales como técnicas de prompting y liderazgo.
+      This course is designed to kickstart your career as a generative AI application developer, training you specifically in the skills that companies and potential employers are looking for. We teach Python because it is the clear leader in the Data Science, AI, and Machine Learning markets. You will learn frameworks like Langchain and Ollama, and work with LLMs such as GPT-4, Claude 3.5 Sonnet, and Llama 3. You will create industry-demanded projects like chatbots, autonomous agents, tutors, and many more. You will acquire essential industry skills such as prompting techniques and leadership.
         
     list:
       - label: "Duration"
         content:  "24 weeks"
         icon: "calendar"
       - label: "Classes"
-        content: "3 Classes per week"
+        content: "2 Classes per week"
         icon: "book"
       - label: "Class Size"
         content: "14 people max"
@@ -93,7 +85,7 @@ details:
     - label: "Duration"
       value: "24 weeks"
     - label: "Commitment"
-      value: "3 live sessions each week, each session 3 hours, totaling 216 hours"
+      value: "2 live sessions each week, each session 3 hours, totaling 144 hours"
     - label: "Certificate"
       content: "Our certificates are recognized by multiple institutions."
       link_text: "See example"
@@ -104,7 +96,7 @@ details:
     - label: "Class Size"
       value: "Up to 14 people"
     - label: "Total Hours"
-      value: "216"
+      value: "144"
   sub_heading: "24-week course for professionals who want to develop advanced skills in generative AI."
   left_labels:
     description: "DESCRIPTION:"
@@ -112,48 +104,55 @@ details:
     duration: "DURATION:"
     skills: "Skills / Weeks:"
   details_modules:
-    - module_name: "Fundamentals of Artificial Intelligence"
-      title: "Section 1: Fundamentals of Artificial Intelligence"
-      description: "Learn the necessary concepts of Artificial Intelligence to understand the syllabus and become familiar with them. Theoretically understand the functioning and training of an AI model."
-      projects: "Develop a simple AI model to classify images."
-      slug: "fundamentals-of-artificial-intelligence"
-      duration: "4 weeks"
+    - module_name: "Fundamentals of Software Development"
+      title: "Section 1: Fundamentals of Software Development"
+      description: "Learn software development concepts, put them into practice, and create your first applications."
+      projects: "Make a todo list app with AI"
+      slug: "fundamentals-of-software-development"
+      duration: "2 weeks"
       step: 1
-    - module_name: "Tools and Generation Practices"
-      title: "Section 2: Tools and Generation Practices"
-      description: "Learn about the tools used during the course and become familiar with the work environment, obtain API KEYs if necessary. Familiarize yourself with the most important APIs and libraries for developing AI apps and generate each type of data needed during the course."
-      projects: "Generate text, images, and audio using different APIs."
-      slug: "tools-and-generation-practices"
-      duration: "4 weeks"
+    - module_name: "Fundamentals of Artificial Intelligence"
+      title: "Section 2: Fundamentals of Artificial Intelligence"
+      description: "Understand the basic concepts of artificial intelligence such as neural networks, models, weights, biases. Use various generative models to familiarize yourself with them. Learn prompting techniques. Identify different model architectures to use them correctly."
+      projects: ""
+      slug: "fundamentals-of-artificial-intelligence"
+      duration: "2 weeks"
       step: 2
-    - module_name: "AI Application Development"
-      title: "Section 3: AI Application Development"
-      description: "Develop various AI applications and understand their architecture, challenges, limitations, and best practices."
-      projects: "Develop a chatbot using Python and Flask. Create a local application capable of searching documents, opening them, and answering questions about them."
-      slug: "ai-application-development"
-      duration: "6 weeks"
+    - module_name: "Popular APIs"
+      title: "Section 3: Popular APIs"
+      description: "Learn to use popular APIs: OpenAI, Anthropic, Groq, Google."
+      projects: "Chatbot + IVR agent (an app capable of recognizing your voice, speaking, producing responses, and more)"
+      slug: "popular-apis"
+      duration: "4 weeks"
       step: 3
-    - module_name: "Advanced Techniques and Deployment"
-      title: "Section 4: Advanced Techniques and Deployment"
-      description: "Use advanced techniques to build fully contextualized applications and improve AI generation. Understand the different ways to deploy an AI application, options, and recommendations."
-      projects: "Complete a final fullstack project capable of generating at least two different types of data, and receiving inputs in the form of text, audio, and images. Additionally, the application must have at least one associated function that the AI can call and manage memory appropriately."
-      slug: "advanced-techniques-and-deployment"
-      duration: "6 weeks"
+    - module_name: "Frameworks and Libraries"
+      title: "Section 4: Frameworks and Libraries"
+      description: "Use the most popular frameworks and libraries to develop AI apps like Langchain, Ollama, Llama-Index, OpenAI-like libraries, and more."
+      projects: "Develop an AI agent capable of using tools or calling functions on your behalf."
+      slug: "frameworks-and-libraries"
+      duration: "4 weeks"
       step: 4
-    - module_name: "HTML/CSS and JavaScript Basics"
-      title: "Section 5: HTML/CSS and JavaScript Basics"
-      description: "Learn the basics of web development with HTML, CSS, and JavaScript to create interactive and responsive web applications."
-      projects: "Create a simple web page with interactive elements."
-      slug: "html-css-javascript-basics"
-      duration: "2 weeks"
+    - module_name: "Vector Databases"
+      title: "Section 5: Vector Databases"
+      description: "Learn to use vector databases. Learn to create embeddings, store information from various sources and file extensions. Learn advanced semantic search techniques like RAG, Hyde, LLM Reranking, or MMR."
+      projects: "Create an application capable of storing all types of documents in a vector database and responding based on reliable information."
+      slug: "vector-databases"
+      duration: "4 weeks"
       step: 5
-    - module_name: "Machine Learning with Data Science"
-      title: "Section 6: Machine Learning with Data Science"
-      description: "Learn the fundamentals of machine learning and data science, including data preprocessing, model training, and evaluation."
-      projects: "Develop a machine learning model to predict housing prices."
-      slug: "machine-learning-data-science"
-      duration: "2 weeks"
+    - module_name: "Finetuning and Model Deployment"
+      title: "Section 6: Finetuning and Model Deployment"
+      description: "Learn to finetune an AI model to ensure its responses are aligned with your data. Learn to create quality datasets for AI training."
+      projects: "Finetune a language model and build an API to use it, integrating other learned techniques."
+      slug: "finetuning-and-model-deployment"
+      duration: "4 weeks"
       step: 6
+    - module_name: "Final Projects"
+      title: "Section 7: Final Projects"
+      description: "Develop a final project that integrates all the concepts learned."
+      projects: "You decide, your project could be the next AI unicorn."
+      slug: "final-projects"
+      duration: "4 weeks"
+      step: 7
 
 syllabus:
   heading: Download all the information about this program
