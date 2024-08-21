@@ -1,8 +1,9 @@
 ---
-
 description: "In this guide, you will learn the capabilities of ChatGPT, what it is, and how to get the most out of generative AI 🚀"
 tags: ["prompt engineering", "generative ai"]
 title: "How to Use ChatGPT: Complete Guide"
+authors: ["charlytoc"]
+
 ---
 
 The world changed when ChatGPT was released. I remember the moment I saw the first news about it, shortly after news about Dall-E had come out, and I had tried it. That's why when I saw ChatGPT, I wanted to try it.
