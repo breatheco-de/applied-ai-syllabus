@@ -2,6 +2,8 @@
 tags: ["prompt engineering", "generative ai"]
 description: "Learn how to use Artificial Intelligence and Generative AI to improve your workflow and create amazing content. Let's dive in! 🚀"
 title: "How to Use Artificial Intelligence"
+authors: ["Charlytoc"]
+
 ---
 
 

@@ -1,6 +1,8 @@
 --- 
 description: "Learn what a prompt is and how it is used in generative artificial intelligence." 
 tags: ["prompt engineering", "generative AI"] 
+authors: ["Charlytoc"]
+
 ---  
 
 ![Prompt](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/main/assets/charlytoc_A_robot_painting_a_canvas_symbolizing_how_generative__3197b88a-ba34-4d2e-9d42-0bd8777dd9c2.webp)  

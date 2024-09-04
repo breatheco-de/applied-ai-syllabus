@@ -2,6 +2,8 @@
 description: "Aprende cómo usar la Inteligencia Artificial y la IA Generativa para mejorar tu flujo de trabajo y crear contenido increíble. ¡Vamos a ello! 🚀"
 tags: ["prompt engineering", "ia generativa"]
 title: "Cómo Usar Inteligencia Artificial"
+authors: ["Charlytoc"]
+
 ---
 
 La **Inteligencia Artificial**, en particular la **Inteligencia Artificial Generativa** se está comiendo al mundo. Representa la herramienta más disruptiva, útil y atemorizante de los últimos años. Capaz de [poner los pelos de punta a  algunos](https://www.nationalgeographic.es/ciencia/2023/06/inteligencia-artificial-por-que-asusta-valle-inquietante) y fascinar a otros (como yo).

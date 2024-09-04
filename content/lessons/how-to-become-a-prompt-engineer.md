@@ -2,6 +2,7 @@
 description: "Learn how to become a Prompt Engineer and create effective prompts to leverage AI to your advantage. Let's get started! 🎉"
 tags: ["prompt engineering", "generative ai"]
 title: "How to Become a Prompt Engineer"
+authors: ["Charlytoc"]
 ---
 
 ![Prompt](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/main/assets/charlytoc_A_collage_of_various_data_types_like_text_images_and__25f517b0-5ec4-40ec-8433-454e9575b8e6.webp)

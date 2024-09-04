@@ -2,7 +2,7 @@
 description: "Aprende cómo convertirte en un Ingeniero de Prompts y crear prompts efectivos para usar la IA a tu favor. ¡Vamos a ello! 🎉"
 tags: ["prompt engineering", "ia generativa"]
 title: "Cómo convertirte en un Ingeniero de Prompts"
-
+authors: ["Charlytoc"]
 ---
 ![Prompt](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/main/assets/charlytoc_A_collage_of_various_data_types_like_text_images_and__25f517b0-5ec4-40ec-8433-454e9575b8e6.webp)
 

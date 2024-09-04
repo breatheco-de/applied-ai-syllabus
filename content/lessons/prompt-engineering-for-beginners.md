@@ -2,6 +2,8 @@
 description: "Master the art of Prompt Engineering to maximize the potential of AI. Learn to write precise instructions to get high-quality results. Let's get started! 🎉" 
 tags: ["prompt engineering", "generative ai"] 
 title: "Prompt Engineering for Beginners"
+authors: ["Charlytoc"]
+
 ---
 
 

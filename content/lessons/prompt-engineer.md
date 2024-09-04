@@ -2,6 +2,7 @@
 description: "If you haven't heard that the new title for the past few years is 'Prompt Engineer', you haven't used enough artificial intelligence for Google to suggest it to you."
 tags: ["prompt engineering", "generative ai"]
 title: "Prompt Engineer"
+authors: ["Charlytoc"]
 
 ---
 

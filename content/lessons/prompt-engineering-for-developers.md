@@ -1,6 +1,8 @@
 --- 
 description: "Learn the most important techniques for creating effective prompts and getting AI to work for your projects as a developer. Let's get started! 🎉" 
 tags: ["prompt engineering", "generative ai"] 
+authors: ["Charlytoc"]
+
 --- 
 
 # Prompt Engineering for Developers 🤖

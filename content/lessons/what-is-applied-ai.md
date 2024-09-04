@@ -2,6 +2,8 @@
 title: "What is applied AI"
 description: "Learn what is applied AI and how to learn about it"
 tags: ["generative-ai"]
+authors: ["Charlytoc"]
+
 ---
 
 

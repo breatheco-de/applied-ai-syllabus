@@ -2,6 +2,7 @@
 title: "6 Alternativas a ChatGPT"
 description: "Descubre seis alternativas a ChatGPT para interactuar con inteligencia artificial"
 tags: ["generative-ai"]
+authors: ["Charlytoc"]
 ---
 
 ChatGPT es uno de los chatbots de inteligencia artificial más populares, pero no es el único. Existen varias alternativas que ofrecen características únicas y pueden ser más adecuadas para diferentes necesidades. Aquí te presentamos seis alternativas a ChatGPT que deberías considerar.

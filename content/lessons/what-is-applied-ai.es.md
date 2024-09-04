@@ -2,6 +2,8 @@
 title: "¿Qué es la IA Aplicada?"
 description: "Aprende qué es la IA aplicada y cómo aprender sobre ella"
 tags: ["generative-ai"]
+authors: ["Charlytoc"]
+
 ---
 
 **IA Aplicada** es un término que ha ganado tracción en los últimos años, pero ¿qué significa realmente? En este artículo, desglosaremos el concepto de **IA aplicada**, su importancia y cómo está transformando diversas industrias.

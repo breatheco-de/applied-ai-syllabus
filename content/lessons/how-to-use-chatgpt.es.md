@@ -2,6 +2,8 @@
 description: "En esta guía aprenderás la capacidades de ChatGPT, qué es y cómo sacarle el máximo rendimiento a la IA generativa 🚀"
 tags: ["prompt engineering", "ia generativa"]
 title: "Cómo usar ChatGPT: Guía Completa"
+authors: ["Charlytoc"]
+
 ---
 
 El mundo ha cambiado desde que salió a la luz ChatGPT. Recuerdo ese momento cuando vi la primera noticia al respecto, poco tiempo antes habían salido noticias de Dall-E y lo había probado. Es por eso que cuando vi sobre ChatGPT quise hacerlo.
