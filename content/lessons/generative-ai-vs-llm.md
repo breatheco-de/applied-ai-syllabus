@@ -7,6 +7,8 @@ authors: ["Charlytoc"]
 
 In the rapidly evolving world of artificial intelligence, two terms often come up: Generative AI and Large Language Models (LLMs). While they may sound like apples and eggplants, these technologies have unique characteristics and can complement each other in fascinating ways. Let's dive into what sets them apart and how they can work together to revolutionize various industries.
 
+![ai-universe](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/main/assets/ai-universe.webp)
+
 ## What is Generative AI?
 
 [Generative AI](https://4geeks.com/lesson/artificial-intelligence-in-simple-terms) focuses on creating models capable of producing original content, such as images, music, or text. By [ingesting vast amounts of training data](https://4geeks.com/lesson/how-to-train-ai), these models use complex [machine-learning algorithms](https://4geeks.com/lesson/machine-learning-basics) to understand patterns and generate new, creative outputs. Techniques like recurrent neural networks (RNNs) and generative adversarial networks (GANs) are commonly employed, along with transformer architectures like the one in ChatGPT.
