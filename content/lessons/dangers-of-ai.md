@@ -9,7 +9,7 @@ Oh, AI, that tool that has existed for decades but is now on everyone's lips due
 
 ### Let's get to the point because the list is extensive
 
-Artificial Intelligence, and in particular Generative AI, is a tool that allows the production of new content from its training data. This can be anything from text, images, music, to videos. Just thinking about it, some disadvantages come to mind, such as:
+Artificial Intelligence, and in particular [Generative AI](https://4geeks.com/lesson/artificial-intelligence-in-simple-terms), is a tool that allows the production of new content from its training data. This can be anything from text, images, music, to videos. Just thinking about it, some disadvantages come to mind, such as:
 
 ## 1. **Bias in data**
 
