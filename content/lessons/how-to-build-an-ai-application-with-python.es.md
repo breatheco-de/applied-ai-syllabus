@@ -5,9 +5,7 @@ title: "Cómo Hacer Tu Primera Aplicación de IA"
 authors: ["Charlytoc"]
 --- 
 
-![Programador frente a una laptop](../../assets/programmer-in-laptop.webp)
-# Cómo Hacer Tu Primera Aplicación de IA
-
+![Programador frente a una laptop](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/refs/heads/main/assets/programmer-in-laptop.webp)
 
 Construir una aplicación de IA puede ser un desafío sin experiencia previa. En este artículo, exploraremos la API de OpenAI para completaciones de chat, los parámetros más comunes, cómo obtener una clave de API de OpenAI y escribiremos el código necesario para construir una aplicación de chat en la línea de comandos. Esta puede ser la aplicación de IA perfecta para comenzar y el punto de entrada para construir cosas increíbles. ¡Comencemos!
 

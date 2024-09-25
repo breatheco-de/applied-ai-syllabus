@@ -5,9 +5,7 @@ title: "How to Make Your First AI Application"
 authors: ["Charlytoc"]
 ---
 
-# How to Make Your First AI Application
-
-![Programador frente a una laptop](../../assets/programmer-in-laptop.webp)
+![Programador frente a una laptop](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/refs/heads/main/assets/programmer-in-laptop.webp)
 
 Building an AI application can be challenging without prior experience. In this article, we will explore the OpenAI API for chat completions, the most common parameters, how to get an OpenAI API key, and we will write the necessary code to build a command line chat application. This can be the perfect first AI application and the entry point to build awesome things. Let's start!
 
