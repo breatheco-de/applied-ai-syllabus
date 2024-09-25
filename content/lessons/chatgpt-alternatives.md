@@ -17,9 +17,9 @@ Claude is one of the main alternatives to ChatGPT, developed by Anthropic. This 
 - **Opus**: High-performance model for complex tasks.
 
 ### Pricing
-- **Free**: Available through [claude.ai](https://claude.ai) just by signing up.
-- **Pro**: $20/month. Includes 5 times more usage than the free plan, access to Claude 3 Haiku and Claude 3 Opus, project creation, priority access, and early access to new features.
-- **Team**: $25/month per member (minimum 5 members). Includes everything in Pro, higher usage limits, sharing and discovering team members' chats, central billing, and management.
+- **Free**: Available through [claude.ai](https://claude.ai) just by signing up. (so easy!)
+- **Pro**: $20/month. Includes 5 times more usage than the free plan, access to Claude 3 Haiku and Claude 3 Opus, project creation, priority access, and early access to new features. (not easy)
+- **Team**: $25/month per member (minimum 5 members). Includes everything in Pro, higher usage limits, sharing and discovering team members' chats, central billing, and management. (TeamWork)
 
 **Link:** [claude.ai](https://claude.ai/)
 
