@@ -3,6 +3,7 @@
 #### Introduction
 Large Language Models (LLMs) are revolutionizing the field of artificial intelligence, particularly in natural language processing (NLP). These models enable machines to perform tasks that require understanding and generating human language with remarkable precision. The purpose of this guide is to simplify these complex concepts and provide foundational knowledge for those new to applied AI.
 
+![Neural Networks](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/refs/heads/main/assets/neural-network.webp)
 ---
 
 ### What are Large Language Models?
