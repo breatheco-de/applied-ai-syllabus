@@ -34,6 +34,13 @@ Let's dive into some of the best tools available today:
 Crafting effective prompts is crucial for generating high-quality images. Below are some examples of good prompts that you can use to inspire your creations:
 
 - “A futuristic city at sunset, with flying cars and neon lights”
+Krea.ai result:
+![Futuristic Sunset](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/main/assets/futuristic-sunset.png)
+
+Midjourney result:
+![Futuristic Sunset Midjourney](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/main/assets/futuristic-sunset-midjourney.webp)
+
+
 - “A serene landscape featuring a waterfall and a rainbow”
 - “A portrait of a cat dressed as a pirate in a whimsical style”
 - “An alien planet with unusual plants and creatures”
