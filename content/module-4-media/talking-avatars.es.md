@@ -4,7 +4,10 @@ authors: ["charlytoc"]
 description: "Explora la tendencia de los avatares de IA y sus diversas aplicaciones en la creación de contenido y el servicio al cliente."
 title: "Aprovechando el Poder de los Avatares de IA en la Creación de Contenido"
 ---
-![Charly talking avatar](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/407db7723a0b83e82a80d547126bdb29f0d0d677/assets/charly-ai-avatar.mp4)
+<video width="320" height="240" controls>
+  <source src="https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/407db7723a0b83e82a80d547126bdb29f0d0d677/assets/charly-ai-avatar.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 En el **rápido desarrollo del paisaje digital**, el auge de los **avatares de IA** marca una nueva era en la generación de contenido. Estos seres virtuales no son solo una moda pasajera; representan una **herramienta transformadora** para cualquier persona que busque amplificar sus esfuerzos en la creación de contenido. Ya seas un influencer emergente, un creador de contenido experimentado o un negocio que busca interactuar con clientes, los **avatares de IA** son una innovación que debes probar. ¡Imagina tener un asistente virtual que puede crear videos, responder consultas e incluso representar tu marca en reuniones, todo mientras imita la interacción humana! Esta lección profundizará en los diversos **casos de uso** de los avatares de IA, explorará herramientas poderosas que facilitan su creación y ofrecerá valiosas ideas sobre cómo puedes aprovecharlos para alcanzar tus objetivos.
 

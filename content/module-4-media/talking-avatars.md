@@ -4,7 +4,11 @@ authors: ["charlytoc"]
 description: "Explore the trend of AI avatars and their diverse applications in content creation and customer service."
 title: "Harnessing the Power of AI Avatars in Content Creation"
 ---
-![Charly talking avatar](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/407db7723a0b83e82a80d547126bdb29f0d0d677/assets/charly-ai-avatar.mp4)
+<video width="320" height="240" controls>
+  <source src="https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/407db7723a0b83e82a80d547126bdb29f0d0d677/assets/charly-ai-avatar.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 In the rapidly evolving **digital landscape**, the rise of **AI avatars** heralds a new era in content generation. These virtual beings are not just a fleeting trend; they represent a **transformative tool** for anyone aiming to amplify their content creation efforts. Whether you are a budding influencer, a seasoned content creator, or a business looking to engage with customers, **AI avatars** are a **must-try** innovation. Imagine having a virtual assistant that can create videos, respond to inquiries, and even represent your brand in meetings—all while mimicking human interaction! This lesson will delve into the various **use cases** of AI avatars, explore powerful tools that facilitate their creation, and provide valuable insights into how you can leverage them for your goals.
 
