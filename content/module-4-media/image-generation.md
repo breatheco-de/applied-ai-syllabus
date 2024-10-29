@@ -43,6 +43,13 @@ Midjourney result:
 
 - “A serene landscape featuring a waterfall and a rainbow”
 - “A portrait of a cat dressed as a pirate in a whimsical style”
+
+Krea.ai result:
+![Pirate Cat](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/main/assets/pirate-cat.png)
+
+Midjourney result:
+![Pirate Cat Midjourney](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/main/assets/pirate-cat-midjourney.webp)
+
 - “An alien planet with unusual plants and creatures”
 - “A vintage-style poster for a fictional movie about time travel”
 
