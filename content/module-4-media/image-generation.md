@@ -51,6 +51,12 @@ Midjourney result:
 ![Pirate Cat Midjourney](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/main/assets/pirate-cat-midjourney.webp)
 
 - “An alien planet with unusual plants and creatures”
+Can you guess which model produced each of the following images?
+![Alien Planet](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/main/assets/alient-planet-midjourney.webp)
+
+
+![Alien Planet](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/main/assets/alien-planet-krea.png)
+
 - “A vintage-style poster for a fictional movie about time travel”
 
 ### The styling

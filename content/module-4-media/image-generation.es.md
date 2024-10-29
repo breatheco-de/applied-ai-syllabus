@@ -35,9 +35,28 @@ Vamos a sumergirnos en algunas de las mejores herramientas disponibles hoy:
 Crear prompts efectivos es crucial para generar imágenes altamente cualitativas. A continuación se presentan algunos ejemplos buenos que puedes utilizar para inspirar tus creaciones:
 
 - “Una ciudad futurista al atardecer, con coches voladores y luces neón”
+Resultado con Krea.ai:
+![Futuristic Sunset](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/main/assets/futuristic-sunset.png)
+
+Resultado con Midjourney:
+![Futuristic Sunset Midjourney](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/main/assets/futuristic-sunset-midjourney.webp)
+
 - “Un paisaje sereno que presenta una cascada y un arcoíris”
 - “Un retrato de un gato vestido como pirata en un estilo caprichoso”
+
+Resultado con Krea.ai:
+![Pirate Cat](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/main/assets/pirate-cat.png)
+
+Resultado con Midjourney:
+![Pirate Cat Midjourney](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/main/assets/pirate-cat-midjourney.webp)
+
 - “Un planeta alienígena con plantas y criaturas inusuales”
+¿Puedes adivinar qué modelo produjo cada una de las siguientes imágenes?
+![Alien Planet](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/main/assets/alient-planet-midjourney.webp)
+
+
+![Alien Planet](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/main/assets/alien-planet-krea.png)
+
 - “Un cartel vintage para una película ficticia sobre viajes en el tiempo”
 
 ### El estilo
