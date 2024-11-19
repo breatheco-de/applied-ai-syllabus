@@ -3,10 +3,12 @@ title: "Final Project: Exploring the Potential of Generative AI"
 description: "In this final project, you will explore the capabilities of generative artificial intelligence (AI) to create original and exciting content. You can choose from various creative formats such as websites, illustrated books, comics, or short films. Additionally, you will document your creative process through a 'Prompt Book', which will record the prompts used and the different artificial intelligences with which they have been created."
 tags: ["Generative AI"] 
 ---
-
-## Introduction
-
 This project invites you to dive into the fascinating world of generative artificial intelligence (AI). You'll have the opportunity to experiment with the most innovative tools and explore their creative potential to bring original and impactful projects to life. Imagine creating a vibrant website, a captivating illustrated book, an action-packed comic, or a short film that transports your audience to new worlds. The possibilities are endless!
+
+![Ilustración](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/refs/heads/main/assets/a-modern-and-sleek-illustration-of-a-.png)
+
+
+
 
 ## Project Objectives
 

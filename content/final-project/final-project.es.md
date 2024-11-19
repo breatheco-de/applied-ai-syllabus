@@ -3,10 +3,11 @@ title:  "Proyecto Final: Explorar el Potencial de la IA Generativa"
 description: "En este proyecto final, explorarás las capacidades de la inteligencia artificial generativa (IA Generativa) para crear contenido original y emocionante. Podrás elegir entre diversos formatos creativos como páginas web, libros ilustrados, cómics o cortometrajes. Adicionalmente, documentarás tu proceso creativo a través de un 'Prompt Book', que registrará los prompts utilizados y las distintas inteligencias artificiales con las cuales lo hayan hecho."
 tags: ["Generative AI"] 
 ---
-
-##  Introducción
-
 Este proyecto te invita a sumergirte en el mundo fascinante de la inteligencia artificial generativa (IA Generativa). Tendrás la oportunidad de experimentar con las herramientas más innovadoras y explorar su potencial creativo para dar vida a proyectos originales e impactantes.  Imagina crear una página web vibrante, un libro ilustrado cautivador, un cómic lleno de acción o un cortometraje que transporte a tu audiencia a nuevos mundos. ¡Las posibilidades son infinitas!
+
+![Ilustración](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/refs/heads/main/assets/a-modern-and-sleek-illustration-of-a-.png)
+
+
 
 ##  Objetivos del Proyecto 
 
