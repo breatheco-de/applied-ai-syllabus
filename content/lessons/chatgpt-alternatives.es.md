@@ -34,8 +34,8 @@ Perplexity AI es otro chatbot de inteligencia artificial que está conectado a I
 - Proporciona transparencia citando fuentes.
 
 ### Precios
-- **Plan gratuito**: Consultas básicas y exploración.
-- **Plan Pro**: $20/mes para funciones avanzadas como uso ilimitado de Copilot.
+- **Plan gratuito**: Consultas básicas y exploración. (Muy Fácil❤)
+- **Plan Pro**: $20/mes para funciones avanzadas como uso ilimitado de Copilot. (no tan fácil😒)
 
 **Enlace:** [perplexity.ai](https://www.perplexity.ai/)
 
