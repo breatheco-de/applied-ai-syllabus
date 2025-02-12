@@ -1,6 +1,6 @@
 ---
 description: "Explora las desventajas más comunes de la Inteligencia Artificial y cómo podemos mitigarlas."
-tags: ["ia generativa"]
+tags: ["ia generativa", "eticas-ia"]
 title: "Desventajas de la Inteligencia Artificial"
 authors: ["Charlytoc"]
 ---
