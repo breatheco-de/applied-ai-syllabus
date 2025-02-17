@@ -1,5 +1,5 @@
 ---
-description: "🤖 Entendiendo las Diferencias entre la IA Generativa y los LLMs"
+description: "Descubre las diferencias clave entre la IA Generativa y los Modelos de Lenguaje Grande (LLMs). Mientras la IA Generativa crea contenido original, los LLMs procesan y generan texto de forma avanzada. Juntas, estas tecnologías pueden revolucionar industrias como el marketing, el arte y la educación."
 tags: ["IA generativa", "LLMs", "tecnología de IA"]
 title: "IA Generativa vs LLM: Entendiendo las Diferencias y Sinergias"
 authors: ["Charlytoc"]
