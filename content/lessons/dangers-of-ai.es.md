@@ -1,5 +1,5 @@
 ---
-description: "Explora las desventajas más comunes de la Inteligencia Artificial y cómo podemos mitigarlas."
+description: "La Inteligencia Artificial ha aportado muchos beneficios, pero también tiene sus desventajas. En este artículo, exploramos algunas de las desventajas más comunes de la IA y cómo podemos mitigarlas."
 tags: ["ia generativa", "eticas-ia"]
 title: "Desventajas de la Inteligencia Artificial"
 authors: ["Charlytoc"]
