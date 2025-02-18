@@ -1,5 +1,5 @@
 ---
-description: "🤖 Understanding the Differences Between Generative AI and LLMs"
+description: "Discover the key differences between Generative AI and Large Language Models (LLMs). While Generative AI creates original content, LLMs process and generate text in an advanced way. Together, these technologies can revolutionize industries like marketing, art, and education."
 tags: ["generative AI", "LLMs", "AI technology"]
 title: "Generative AI vs LLM: Understanding the Differences and Synergies"
 authors: ["Charlytoc"]
