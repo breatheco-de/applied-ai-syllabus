@@ -1,6 +1,6 @@
 ---
 description: "Si no has escuchado que el nuevo título para los últimos años es el de «Prompt Engineer» o «Ingeniero de Prompts», no has usado suficiente inteligencia artificial para que Google te lo sugiera."
-tags: ["prompt engineering", "ia generativa"]
+tags: ["ingenieria-de-prompts", "ia generativa"]
 title: "Ingeniero de Prompts"
 authors: ["Charlytoc"]
 
