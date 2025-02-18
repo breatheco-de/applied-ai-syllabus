@@ -1,5 +1,5 @@
 ---
-description: "Aprende qué es un prompt y cómo se usa en la inteligencia artificial generativa."
+description: "Aprende qué es un prompt y cómo se utiliza en la inteligencia artificial generativa para crear contenido nuevo. Un prompt es el dato de entrada que se da a un modelo de IA para generar imágenes, textos o sonidos basados en datos previos. Descubre cómo convertirte en un ingeniero de prompts para optimizar resultados."
 tags: ["prompt engineering", "ia generativa"]
 authors: ["Charlytoc"]
 
