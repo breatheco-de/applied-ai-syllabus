@@ -69,8 +69,8 @@ Aquí hay cinco modelos de IA de código cerrado prominentes que son ampliamente
 Elegir el modelo de IA adecuado depende de varios factores, incluyendo:
 
 1. **Requisitos del Proyecto**: Evalúe si su proyecto requiere una personalización extensa o si una solución disponible es suficiente.
-2. **Presupuesto**: Los modelos de código abierto suelen ser gratuitos, mientras que los modelos de código cerrado pueden incurrir en tarifas de licencia.
 3. **Necesidades de Soporte**: Determine si su equipo tiene la experiencia para manejar un modelo de código abierto o si requiere el soporte que viene con una solución de código cerrado.
+2. **Costo**: Los modelos de código abierto suelen ser gratuitos, mientras que los modelos de código cerrado pueden incurrir en tarifas de licencia. Sin embargo, los modelos de código abierto requieren un mayor esfuerzo para configurar y mantener, ya que no son tan fáciles de usar como los modelos de código cerrado y necesitan de mayores recursos computacionales.
 4. **Preocupaciones de Seguridad**: Evalúe los requisitos de seguridad de su proyecto y si la transparencia del código abierto o el entorno controlado del código cerrado se adapta mejor a sus necesidades.
 5. **Objetivos a Largo Plazo**: Considere sus objetivos a largo plazo, como la necesidad de escalabilidad y flexibilidad, que pueden influir en su elección.
 
