@@ -1,4 +1,9 @@
-# Class 1:  Introduction to AI and its importance in the workplace.
+---
+title: "Introduction to AI and its importance in the workplace."
+description: "Artificial Intelligence (AI) involves programming machines to simulate human intelligence for tasks like decision-making, language translation, and visual perception. It revolutionizes workplaces by automating tasks, optimizing efficiency, and opening new opportunities while reshaping industries. Understanding AI models and crafting effective prompts enhances AI utility, enabling diverse applications from healthcare diagnostics to creative content generation."
+tags: ["generative-ai", "artificial-intelligence", "machine-learning", "prompt-engineering"]
+
+---
 
 ## What is AI? A brief glimpse into a vast universe.
 

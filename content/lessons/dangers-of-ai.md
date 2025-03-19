@@ -1,6 +1,6 @@
 ---
 description: "Artificial Intelligence has brought many benefits, but it also has its disadvantages. In this article, we explore some of the most common disadvantages of AI and how we can mitigate them."
-tags: ["generative ai"]
+tags: ["generative ai", "AI-ethics"]
 title: "Disadvantages of Artificial Intelligence"
 authors: ["Charlytoc"]
 ---

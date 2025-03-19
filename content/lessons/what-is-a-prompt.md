@@ -1,5 +1,5 @@
 --- 
-description: "Learn what a prompt is and how it is used in generative artificial intelligence." 
+description: "Learn what a prompt is and how it is used in generative artificial intelligence to create new content. A prompt is the input data given to an AI model to generate images, text, or sounds based on prior data. Find out how to become a prompt engineer to optimize results." 
 tags: ["prompt engineering", "generative AI"] 
 authors: ["Charlytoc"]
 

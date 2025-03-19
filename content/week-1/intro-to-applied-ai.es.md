@@ -1,4 +1,9 @@
-# Clase 1: Introducción a la IA y su importancia en el lugar de trabajo.
+---
+title: "Introducción a la IA y su importancia en el lugar de trabajo."
+description: "La Inteligencia Artificial (IA) consiste en programar máquinas para simular la inteligencia humana en tareas como la toma de decisiones, la traducción de idiomas y la percepción visual. Está revolucionando los lugares de trabajo al automatizar tareas, optimizar la eficiencia y abrir nuevas oportunidades mientras transforma industrias. Comprender los modelos de IA y redactar prompts efectivos mejora su utilidad, permitiendo aplicaciones diversas, desde diagnósticos médicos hasta la generación de contenido creativo"
+tags: ["ai-generativa", "inteligencia-artificial", "machine-learning", "ingenieria-de-prompts"]
+
+---
 
 ## ¿Qué es la IA? Un breve vistazo a un vasto universo.
 
