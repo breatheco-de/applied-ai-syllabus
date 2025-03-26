@@ -3,14 +3,14 @@ tags: ["Inteligencia Artificial", "Aprendizaje", "Productividad"]
 authors: ["Charly Chacon"]
 description: "Bienvenido al fascinante mundo de la inteligencia artificial. Este curso está diseñado para hacerte más productivo, sabio y apasionado por la IA, mientras compartes tu aprendizaje con el mundo."
 title: "¡Bienvenido al Mundo de la IA!"
-intro: "https://youtu.be/4dPWEGdoGOY"
+intro: "https://www.youtube.com/watch?v=4dPWEGdoGOY"
 ---
 
 
 
 # ¡Bienvenido al Mundo de la IA!
 
-![Intro video](https://youtu.be/4dPWEGdoGOY)
+![Intro video](https://www.youtube.com/watch?v=4dPWEGdoGOY)
 
 Si estás leyendo esto, significa que has decidido aventurarte en el aprendizaje de la inteligencia artificial. ¡Felicidades! Lo que descubrirás aquí no solo te hará más productivo y sabio, sino que también despertará tu curiosidad y amor por la IA, si aún no lo ha hecho.
 
