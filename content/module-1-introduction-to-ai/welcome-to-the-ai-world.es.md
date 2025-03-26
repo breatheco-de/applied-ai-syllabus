@@ -6,7 +6,11 @@ title: "¡Bienvenido al Mundo de la IA!"
 intro: "https://youtu.be/4dPWEGdoGOY"
 ---
 
+
+
 # ¡Bienvenido al Mundo de la IA!
+
+![Intro video](https://youtu.be/4dPWEGdoGOY)
 
 Si estás leyendo esto, significa que has decidido aventurarte en el aprendizaje de la inteligencia artificial. ¡Felicidades! Lo que descubrirás aquí no solo te hará más productivo y sabio, sino que también despertará tu curiosidad y amor por la IA, si aún no lo ha hecho.
 
