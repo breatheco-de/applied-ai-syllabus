@@ -112,37 +112,4 @@ When crafting prompts for an AI, it's important to be specific about the desired
 **Context**: Context in AI refers to the additional information that helps the AI system understand the situation, task, or environment it is dealing with. It provides background details that guide the AI in generating a more accurate and relevant response. For example, if you ask an AI to "book a restaurant," the context might include your location, preferred cuisine, budget, and the number of people dining. With this context, the AI can tailor its search and recommendations accordingly. Context is crucial for AI to process requests in a way that aligns with the user's expectations and real-world scenarios.
 
 
-### Interactive Quiz about AI Concepts and Applications:
-
-1. In your own words to describe these words in the context of Artifficial Intelligence:
-   - **Artificial Intelligence**: 
-   - - **Model**: 
-   - **Prompt**: 
-   - **Large Language Model**: 
-
-2. **Explain the role of prompts in AI and how they affect the outcome.**:
-
-3. **AI Use Case Matching**:
-   Match the AI technology to its appropriate use case:
-   - **LLM**:
-      - [ ] Predicting stock market trends
-      - [ ] Generating a news article
-      - [ ] Diagnosing diseases from medical images
-   - **Computer Vision AI**:
-      - [ ] Facial recognition in security systems
-      - [ ] Translating a paragraph from English to Mandarin
-      - [ ] Composing a piece of music
-   - **Speech Recognition AI**:
-      - [ ] Converting spoken words into written text
-      - [ ] Identifying objects in a photo
-      - [ ] Creating a virtual reality environment
-
-4. **Real-World AI Application Scenarios**:
-   Describe a scenario in your personal or professional life where AI could provide a solution or enhancement. Be specific about the task and the expected AI contribution.
-
-
-**AI Impact Discussion** (for discussion at the end of the class):
-   - Do you believe AI will create more jobs than it displaces? Why or why not?
-   - Discuss how AI could change the educational landscape in the next decade.
-   - If you had access to an advanced AI capable of any task, what unique application would you develop?
 

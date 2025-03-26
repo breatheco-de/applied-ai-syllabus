@@ -107,35 +107,3 @@ Al crear prompts para una IA, es importante ser específico sobre el resultado d
 
 **Contexto**: El contexto en IA se refiere a la información adicional que ayuda al sistema de IA a comprender la situación, tarea o entorno con el que está tratando. Proporciona detalles de fondo que guían a la IA en la generación de una respuesta más precisa y relevante. Por ejemplo, si le pides a una IA que "reserve un restaurante", el contexto podría incluir tu ubicación, cocina preferida, presupuesto y el número de personas que cenan. Con este contexto, la IA puede adaptar su búsqueda y recomendaciones en consecuencia. El contexto es crucial para que la IA procese solicitudes de una manera que se alinee con las expectativas del usuario y los escenarios del mundo real.
 
-### Cuestionario Interactivo sobre Conceptos y Aplicaciones de IA:
-
-1. En tus propias palabras, describe estas palabras en el contexto de la Inteligencia Artificial:
-   - **Inteligencia Artificial**: 
-   - **Modelo**: 
-   - **Prompt**: 
-   - **Modelo de Lenguaje Grande**: 
-
-2. **Explica el papel de los prompts en la IA y cómo afectan el resultado.**:
-
-3. **Emparejamiento de Casos de Uso de IA**:
-   Empareja la tecnología de IA con su caso de uso apropiado:
-   - **LLM**:
-      - [ ] Predecir tendencias del mercado de valores
-      - [ ] Generar un artículo de noticias
-      - [ ] Diagnosticar enfermedades a partir de imágenes médicas
-   - **IA de Visión por Computadora**:
-      - [ ] Reconocimiento facial en sistemas de seguridad
-      - [ ] Traducir un párrafo del inglés al mandarín
-      - [ ] Componer una pieza musical
-   - **IA de Reconocimiento de Voz**:
-      - [ ] Convertir palabras habladas en texto escrito
-      - [ ] Identificar objetos en una foto
-      - [ ] Crear un entorno de realidad virtual
-
-4. **Escenarios de Aplicación de IA en el Mundo Real**:
-   Describe un escenario en tu vida personal o profesional donde la IA podría proporcionar una solución o mejora. Sé específico sobre la tarea y la contribución esperada de la IA.
-
-**Discusión sobre el Impacto de la IA** (para discusión al final de la clase):
-   - ¿Crees que la IA creará más empleos de los que desplaza? ¿Por qué o por qué no?
-   - Discute cómo la IA podría cambiar el panorama educativo en la próxima década.
-   - Si tuvieras acceso a una IA avanzada capaz de cualquier tarea, ¿qué aplicación única desarrollarías?

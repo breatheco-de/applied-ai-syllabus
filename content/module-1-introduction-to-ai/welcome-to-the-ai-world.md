@@ -9,6 +9,8 @@ title: "Welcome to the World of AI!"
 
 If you're reading this, it means you've decided to embark on a journey to learn more about artificial intelligence. Congratulations! What you'll learn here will not only make you more productive and knowledgeable but will also spark your curiosity and passion for AI—if it hasn’t already.
 
+## 
+
 ## Course Structure
 
 This course is designed to be accessible and easy to understand for everyone, regardless of experience level. Each module consists of three key components:
