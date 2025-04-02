@@ -1,36 +1,159 @@
-# 🤖 Artificial Intelligence in Simple Terms
+---
+title: "🤖 Artificial Intelligence in Simple Terms"
+description: "A creative and simple guide to understanding generative AI, how models work, the training process, and why AI is revolutionizing the way we create, think, and work."
+tags: ["generative-ai", "ai-models", "neural-networks"]
+authors: ["Charly Chacon"]
+---
+
 ![Prompt: a_robot_with_humanoid_aspect_drawing_on_a_picture, by @Charlytoc](https://storage.googleapis.com/rigobot-storage-bucket/images/charlytoc_a_robot_with_humanoid_aspect_drawing_on_a_picture_286bf920-6d07-4e21-be6f-b637fda1d766.webp)
 
+# 🤖 Artificial Intelligence in Simple Terms
 
+Imagine asking a machine to write a poem, paint a sunset, or generate a video of a dancing dinosaur — and it actually does it. Welcome to the world of **Generative Artificial Intelligence**.
 
-Understand how it works and master it in less time than it takes to read this article.
+In this guide, I’ll take you by the digital hand and walk you through the main concepts behind generative AI: what it is, how it works, and why it's becoming one of the most powerful tools of our time. All explained in plain, creative language.
 
-Generative artificial intelligence (AI, from now on) is changing the way we work, research, test concepts, and can be used today to do practically everything. In this small guide, I will explain in the simplest way possible some key concepts to understand generative AI and how you can get the most out of it.
+---
 
-### What is Generative AI?
-Generative AI is a field of artificial intelligence that focuses on creating **models** that can generate new content, based on a set of training data. It's like teaching a robot to paint; first, you show it thousands of paintings and then you ask it to create its own work of art. In this way, *all* current generative AI models are trained.
+## 🎨 What Is Generative AI?
 
-### But... What is a model?
-A model in artificial intelligence is like a human brain, it is composed of a **neural network** (I know, we keep introducing more concepts, but that's the idea, that you leave with everything you need to understand AIs 🤖) that is capable of understanding some **input data** and with it generate an **output**. Depending on the architecture and training data, the input data can be, for example: text, sound, images, videos, and any type of data you can imagine, while the output can also be any type of data.
+Let’s start from the beginning.
 
-### How does AI know what to generate?
-When you use AI, you expect that (for practical examples, let's imagine the case of an image generation model) if you ask for a red apple, it gives you a red apple and not a green pear, but, how do models like Midjourney or Dall-e-3 know what a red apple is? Simple, they don't. We cannot imagine an AI model as an entity that knows something, AI is trained with input and output data at the same time, that is, it is given a text that says "red apple", and it is shown the successful case which is an image of a red apple. In this way, and when you multiply by thousands or millions the amount of training data, the **neural network** is able to **adjust its weights** and produce results that are increasingly better according to the quality of the training data.
+**Generative AI** is a type of artificial intelligence that can **create things** — from texts and images to music, videos, code, 3D models, and more. It’s not just about answering questions or automating tasks; it’s about **producing new content** that never existed before.
 
-### Wait, are you telling me they have neurons?
+How does it do that?
+
+By learning from **massive amounts of data**.
+
+Imagine you want to teach a robot to paint. You show it thousands of paintings and say, “this is art.” Eventually, the robot starts creating its own paintings — not by copying, but by generating something completely new, inspired by what it learned.
+
+That's generative AI in a nutshell.
+
+---
+
+## 🧠 But What Is an AI Model?
+
+Now, let’s open up the AI’s brain (don’t worry, it doesn’t feel anything).
+
+An **AI model** is a system — or more precisely, an algorithm — trained to perform a specific task. Think of it like a musical instrument. The more you practice with it, the better it gets at playing the right note.
+
+At the heart of this model lies something called a **neural network**.
+
+### Neural Networks: The Brain Inside the Machine
+
+A **neural network** is a structure inspired by the human brain. It’s made up of millions (or even billions) of small processing units called **neurons**. These neurons are connected to each other, and they "talk" using math — not language or thoughts.
+
+Each connection has a **weight**, which is just a number that tells the network how strong that connection is. The system learns by **adjusting these weights** during training. The better the weights are adjusted, the more accurate the AI becomes.
+
 ![Prompt: Diagrama minimalista de una red neuronal, by @Charlytoc](https://storage.googleapis.com/rigobot-storage-bucket/images/charlytoc_neural_network_diagram_minimalistic_but_inderstandabl_8a420f74-ff58-41c7-a80f-1be1d494830a.webp)
 
+---
 
-Well, good that you ask (although maybe you didn't), but yes, in one way or another a neural network works similarly to how ours do, only instead of chemical signals, they are mathematical operations that pass between them, these mathematical operations depend directly on their weights, and what are these weights? We could describe the weights as numerical values that indicate whether a neuron is more or less related to another according to the input data. In this way, depending on the input data, some neurons will be activated and there will be a determined output.
+## 🧪 What Is “Training” in AI?
 
-### Let's open a debate, does AI have intelligence?
-It may seem redundant, because of artificial intelligence, but AI does not have intelligence in the human sense of the word. The "intelligence" of an AI refers to its ability to perform specific tasks efficiently through data processing and machine learning. It does not possess consciousness or understanding of its own. All its results are determined by the training of the neural network, AI does not think like us, because it does not even do so. AI is, basically, a machine trained to perform specific tasks with precision.
+Great question. 🎓
 
-### Finally, a little joke produced by my artificial intelligence: Chayito.
-Why doesn't AI work well in the kitchen? Because it always tries to find the shortest path to the cake.
+**Training** is the process where an AI model learns from data. Imagine showing the AI a million examples of cats and dogs, along with the correct label for each one. The AI tries to guess which is which, and every time it gets it wrong, it tweaks its **weights** a little.
 
-Yes, one of its weaknesses is the lack of a sense of humor, although to be honest, humans are not exactly the best humorists for the most part, nor how to blame AI.
-Oh, and if you want, you can try Chayito at [this link](https://chat.4geeks.com/?token=b0c95af8c42c43156a941ec722680e8158113ee0&purpose=29&defaultPrompt=Tell+me+a+joke+about+cats+and+technology&action=generate) PS: It will tell you a joke about cats and technology
+This process repeats **millions or billions of times**.
 
-If you want to find out more about artificial intelligence, you can follow me on [Linkedin](https://www.linkedin.com/in/charlytoc/) or [Youtube](https://www.youtube.com/@charlytoc132)
+Eventually, the model becomes so good at recognizing patterns that it can say, “That’s a cat!” with very high accuracy — even if it's never seen that particular cat before.
 
-My name is Charlytoc, and I hope you have learned something new today.
+This is true not only for images, but for text, audio, video, and more.
+
+---
+
+## 🧼 Why Is High-Quality Data So Important?
+
+Here’s a golden rule of AI:
+
+> **Garbage in, garbage out.**
+
+If you train a model with low-quality, biased, or messy data, it will learn — but it will learn the wrong things.
+
+Think of the AI as a sponge. If you fill it with clean, well-organized, diverse information, it will produce smart and helpful results. But if you fill it with noise, junk, or biased content, it will behave in unpredictable or even dangerous ways.
+
+That’s why companies spend millions curating the **perfect datasets** — clean, labeled, and as diverse as possible.
+
+---
+
+## ⚡ The Hidden Cost: Energy and Infrastructure
+
+Training a powerful AI model isn’t just about smart algorithms.
+
+It’s also about raw computing power — and **a lot** of electricity.
+
+To give you an idea:
+- Training **GPT-3** (an LLM with 175 billion parameters) required **thousands of GPUs** running for **weeks**, consuming **megawatts of energy**.
+- The estimated cost? **Several million dollars** just to train the model once.
+
+This has sparked debates about the **environmental impact** of AI, especially as demand for larger and more powerful models increases.
+
+That’s why optimizing models — making them smaller and more efficient — is a major focus in AI research today.
+
+---
+
+## 📏 How Big Is an AI Model?
+
+AI models are often measured by the number of **parameters** they have. A parameter is like a memory cell — it stores a little piece of what the model has learned.
+
+### Examples of model sizes:
+
+| Model | Type | Parameters |
+|-------|------|------------|
+| GPT-2 | LLM | 1.5 billion |
+| GPT-3 | LLM | 175 billion |
+| GPT-4 (estimated) | LLM | ~500+ billion |
+| Stable Diffusion | Image generation | ~890 million |
+| BERT | Language model | 340 million |
+
+The more parameters a model has, the more complex patterns it can learn — but it also requires more data, more energy, and more time to train.
+
+That’s why **bigger isn’t always better**. A smaller model trained with excellent data can outperform a larger one trained poorly.
+
+---
+
+## 🤖 Does AI Really Think?
+
+Let’s pause here and ask a philosophical question:
+
+> **Does AI actually think?**
+
+Not really.
+
+AI doesn’t have emotions, consciousness, or awareness. It doesn't *understand* like we do. It doesn’t dream of electric sheep. 🐑⚡
+
+Instead, it operates by identifying statistical patterns in data. It responds based on probabilities, not beliefs or understanding. This makes it incredibly powerful for specific tasks — but also limited in unexpected ways.
+
+So, **AI is not intelligent like a human — it’s intelligent like a calculator on steroids.**
+
+---
+
+## ✨ Why Is This Revolutionary?
+
+Because we’ve never had a tool like this before.
+
+Generative AI can:
+- **Write stories, essays, and code**
+- **Generate images and videos from text**
+- **Create voices and music**
+- **Understand and summarize complex documents**
+- **Collaborate with humans to solve creative problems**
+
+And the most amazing part? It keeps getting better.
+
+> If you’re not using AI today, chances are your job will change because of it — and soon.
+
+---
+
+## 🎬 Ready to Learn More?
+
+If you liked this guide, you can follow me on:  
+- [LinkedIn](https://www.linkedin.com/in/charlytoc/)  
+- [YouTube](https://www.youtube.com/@charlytoc132)
+
+Or dive deeper into how AI works by exploring more lessons at [4Geeks.com](https://4geeks.com)
+
+---
+
+> **The future is not written. But now, it can be generated.**
