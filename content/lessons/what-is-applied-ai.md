@@ -1,83 +1,141 @@
 ---
-title: "What is applied AI"
-description: "Learn what is applied AI and how to learn about it"
-tags: ["generative-ai"]
-authors: ["Charlytoc"]
+title: "What is Applied AI?"
+description: "Discover how Applied AI brings together different AI models like LLMs, computer vision, and more to solve real-world problems efficiently."
+tags: ["Artificial Intelligence", "Applied AI", "Problem Solving"]
+authors: ["Charly Chacon"]
+---
+
+**Applied AI** is all about using artificial intelligence to solve real-world problems. But here’s the key: it doesn't rely on just one kind of AI model. Instead, it combines **multiple types of AI technologies** — like large language models (LLMs), image recognition systems, and more — to create practical, intelligent solutions that work in everyday life.
+
+In this lesson, we'll explain what Applied AI really means, how it differs from other types of AI, and how it uses a variety of tools to improve the way we live and work.
 
 ---
 
+## What is Artificial Intelligence (AI)?
 
-**Applied AI** is a term that has been gaining traction in recent years, but what does it really mean? In this article, we'll break down the concept of **applied AI**, its significance, and how it's transforming various industries. 
+Before we dive into *Applied AI*, let’s quickly review what **Artificial Intelligence (AI)** is.
+
+At its core, AI means making machines smart — giving them the ability to:
+- Understand language
+- See and interpret images
+- Make decisions
+- Learn from data and experiences
+
+AI is not one single thing. It’s a field made up of **many technologies and models**, each with its own strengths. Some of the most common types include:
+
+- **Large Language Models (LLMs)** like ChatGPT that understand and generate human-like text
+- **Computer Vision** models that analyze images and videos
+- **Speech Recognition** systems that convert voice into text
+- **Reinforcement Learning** models that learn by trial and error
+
+---
 
 ## What is Applied AI?
 
-**Applied AI** refers to the practical application of artificial intelligence technologies to solve real-world problems. Unlike theoretical AI, which focuses on developing new algorithms and models, **applied AI** is all about using existing AI techniques to create tangible solutions. These solutions can range from simple automation tasks to complex systems that mimic human intelligence.
+Now let’s bring in the word **"applied."**
 
-### Key Components of Applied AI
+> “Applied AI” refers to the use of different AI models and tools — sometimes combined — to solve specific, real-world problems.
 
-1. **Machine Learning**: This is the backbone of most AI applications. Machine learning involves training algorithms on large datasets to make predictions or decisions without being explicitly programmed to perform the task. For more details, you can check out this [Machine Learning Basics lesson.](https://4geeks.com/lesson/machine-learning-basics)
-2. **Natural Language Processing (NLP)**: NLP enables machines to understand and interpret human language. This is crucial for applications like chatbots, virtual assistants, and language translation services. Learn more about NLP in this [Natural Language Processing lesson](https://4geeks.com/lesson/natural-language-processing).
-3. **Computer Vision**: This technology allows machines to interpret and make decisions based on visual data. It's widely used in areas like facial recognition, medical imaging, and autonomous vehicles.
+It’s not about building new theories or experimenting in labs. It’s about **using existing AI technologies in practical ways** — to make things faster, smarter, or more efficient in real life.
 
-## Real-World Applications of Applied AI
+Think of it like a toolbox: instead of using one tool for every job, Applied AI uses **the best tool (or combination of tools)** for each problem.
 
-**Applied AI** is not just a buzzword; it's making a significant impact across various industries. Here are some examples:
+---
 
-### Healthcare
+## Key Features of Applied AI
 
-In healthcare, **applied AI** is revolutionizing diagnostics and treatment plans. AI algorithms can analyze medical images to detect diseases like cancer at an early stage. Additionally, AI-powered systems can assist doctors in creating personalized treatment plans based on a patient's medical history and genetic information.
+### ✅ Problem-Solving Focus
+Applied AI starts with a challenge — like improving customer service or detecting disease early — and builds a solution using the right mix of AI technologies.
 
-### Finance
+### 🧠 Multi-Model Solutions
+It may use:
+- An **LLM** to understand customer emails
+- **Computer vision** to analyze images
+- **Speech recognition** to process voice commands
+- **Recommendation engines** to personalize experiences
 
-The finance industry is leveraging **applied AI** for fraud detection, risk management, and customer service. AI algorithms can analyze transaction patterns to identify fraudulent activities in real-time. Moreover, chatbots and virtual assistants, such as **ChatGPT** and **Anthropic**, are enhancing customer service by providing instant responses to queries.
+All together, they form a **complete, intelligent system**.
 
-### Retail
+### 🔁 Real-World Impact
+Applied AI is used in hospitals, banks, factories, schools, and more. It’s everywhere — not just in research labs.
 
-Retailers are using **applied AI** to improve customer experience and optimize operations. AI-driven recommendation systems suggest products based on a customer's browsing history and preferences. Additionally, AI can help in inventory management by predicting demand and optimizing stock levels.
+---
 
-## The Future of Applied AI
+## Examples of Applied AI in Action
 
-The future of **applied AI** looks promising, with advancements in technology paving the way for more sophisticated applications. As AI continues to evolve, we can expect to see even more innovative solutions that will further enhance efficiency, accuracy, and decision-making processes across various sectors.
+### 🏥 Healthcare
+- **Medical Imaging**: Computer vision models detect tumors in X-rays.
+- **Patient Interaction**: LLMs power chatbots that answer patient questions.
+- **Personalized Medicine**: AI analyzes genetic data to recommend treatments.
 
-### Ethical Considerations
+### 🛍️ Retail
+- **Product Recommendations**: Based on browsing patterns using ML.
+- **Visual Search**: Customers can search using images thanks to computer vision.
+- **Smart Chatbots**: LLMs that help customers find what they need.
 
-While the benefits of **applied AI** are immense, it's essential to consider the ethical implications. Issues like data privacy, algorithmic bias, and job displacement need to be addressed to ensure that AI technologies are used responsibly.
+### 💳 Finance
+- **Fraud Detection**: ML models flag suspicious transactions.
+- **Customer Support**: AI agents handle queries using NLP and LLMs.
+- **Credit Scoring**: AI evaluates financial risk from multiple data sources.
 
-> Note: It's crucial to stay updated with the latest advancements and ethical guidelines in the field of **applied AI** to harness its full potential responsibly.
+### 🏭 Manufacturing
+- **Predictive Maintenance**: Machine learning predicts when machines need repairs.
+- **Quality Control**: Computer vision checks for defects on the production line.
+- **Process Optimization**: AI makes workflows more efficient.
 
-## How to Learn Applied AI
-
-Learning **applied AI** can be a rewarding journey. Here are some steps and resources to get you started:
-
-1. **Understand the Basics**: Start with foundational courses in AI and machine learning. Websites like Coursera, edX, and 4Geeks offer excellent introductory courses.
-2. **Hands-On Practice**: Apply what you've learned by working on real-world projects. Kaggle is a great platform for finding datasets and participating in competitions.
-3. **Specialize**: Choose a specific area of applied AI that interests you, such as NLP, computer vision, or robotics, and dive deeper into that field.
-4. **Stay Updated**: Follow AI research papers, blogs, and news to keep up with the latest advancements. Websites like arXiv and Medium are good places to start.
-5. **Learn Prompt Engineering**: Understanding how to create effective prompts is crucial for working with AI models. Check out this [Prompt Engineering for Beginners](https://4geeks.com/lesson/prompt-engineering-for-beginners) lesson and learn more about what a prompt is in this [What is a Prompt](https://4geeks.com/lesson/what-is-a-prompt) lesson.
+---
 
 ## Generative AI vs Applied AI
 
-While both **generative AI** and **applied AI** are subsets of artificial intelligence, they serve different purposes and have distinct characteristics.
+Let’s clarify how **Applied AI** is different from **Generative AI**:
 
-### Generative AI
+| Feature | Applied AI | Generative AI |
+|--------|------------|---------------|
+| **Purpose** | Solve real-world problems | Create new content |
+| **Technologies** | Mix of LLMs, vision models, ML, NLP, etc. | Primarily LLMs and diffusion/image models |
+| **Output** | Decisions, actions, insights | Text, images, music, videos |
+| **Examples** | Tumor detection, fraud alerts | ChatGPT, DALL·E, Midjourney |
+| **Focus** | Practical applications | Creative generation |
 
-- **Purpose**: Generative AI focuses on creating new content. This can include text, images, music, and even video.
-- **Examples**: Models like GPT-3 (used in ChatGPT) and DALL-E are examples of generative AI. They can generate human-like text and create images from textual descriptions, respectively.
-- **Applications**: Content creation, art, music composition, and creative writing.
+In fact, **Generative AI is often used as part of Applied AI**. For example, a customer service system might use a **generative model** to write responses and a **classification model** to route the request.
 
-### Applied AI
+---
 
-- **Purpose**: Applied AI is about using AI techniques to solve practical, real-world problems.
-- **Examples**: AI systems used in healthcare for diagnostics, in finance for fraud detection, and in retail for recommendation systems.
-- **Applications**: Healthcare, finance, retail, manufacturing, and more.
+## How to Learn Applied AI
 
-### Key Differences
+You don’t need to be an AI research scientist to get started. Here’s how to begin learning Applied AI:
 
-- **Focus**: Generative AI is about creation, while applied AI is about application.
-- **Output**: Generative AI produces new content, whereas applied AI provides solutions to existing problems.
-- **Use Cases**: Generative AI is often used in creative fields, while applied AI is used in a wide range of industries to improve efficiency and decision-making.
+1. **Understand AI Fundamentals**
+   - Learn machine learning, NLP, and computer vision basics.
+   - [Start with Machine Learning](https://4geeks.com/lesson/machine-learning-basics)
 
-## Conclusion
+2. **Explore Practical Use Cases**
+   - Study how AI is used in healthcare, retail, finance, etc.
+   - [Ask the AI for real-world examples of applied AI](https://4geeks.com/ask?query=real-world-examples-of-applied-ai)
 
-**Applied AI** is transforming the way we live and work by providing practical solutions to real-world problems. From healthcare to finance and retail, the impact of **applied AI** is evident across various industries. As we move forward, it's crucial to harness the power of AI responsibly to create a better future for all.
+3. **Experiment with Tools**
+   - Platforms like Hugging Face, OpenAI, and Google provide APIs and models you can try.
+
+4. **Practice Prompt Engineering**
+   - Learn how to communicate effectively with LLMs to get better results.
+   - [Learn Prompt Engineering](https://4geeks.com/lesson/prompt-engineering-for-beginners)
+
+5. **Build Projects**
+   - Start small: a chatbot, a recommendation system, or an image classifier.
+   - Participate in challenges on Kaggle or GitHub.
+
+6. **Think Ethically**
+   - Responsible AI matters. Understand issues like bias, privacy, and transparency.
+
+---
+
+## Final Thoughts
+
+**Applied AI is not about using one model — it’s about solving real problems using the right mix of technologies.** Whether it’s an LLM responding to customers, or a computer vision model detecting defects, Applied AI is practical, flexible, and powerful.
+
+It’s already changing industries — and it can change your career too.
+
+If you’re ready to start building real-world solutions with AI, you’re stepping into one of the most exciting and impactful fields of the future.
+
+[Ask the AI how to build an applied AI project](https://4geeks.com/ask?query=how-to-build-an-applied-ai-project)
 
