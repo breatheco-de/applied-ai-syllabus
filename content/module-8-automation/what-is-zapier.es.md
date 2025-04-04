@@ -87,6 +87,7 @@ Zapier ofrece posibilidades infinitas para automatizar tus tareas diarias. Aquí
    - **Disparador**: Llega un nuevo pedido en Shopify.
    - **Acción**: Envía una notificación del pedido a Slack.
    - **Caso de uso**: Mantén a tu equipo informado sobre las ventas en tiempo real.
+     
 
 ---
 
@@ -107,6 +108,7 @@ Zapier ha introducido recientemente capacidades impulsadas por **inteligencia ar
 - **Ahorra tiempo**: Crea automatizaciones rápidamente sin horas de diseño.
 - **Personalizable**: Mantienes el control total para ajustar el flujo de trabajo según sea necesario.
 - **Accesible para usuarios no técnicos**: Cualquiera, independientemente de sus habilidades técnicas, puede automatizar tareas sin esfuerzo.
+  
 
 ---
 
