@@ -3,7 +3,7 @@ tags: ["IA Generativa"]
 authors: ["charlytoc"]
 description: "En este artículo exploraremos las diferencias entre los modelos de IA de código abierto y de código cerrado."
 title: "Modelos de IA de Código Abierto vs Código Cerrado"
-intro: "https://www.youtube.com/shorts/KCQsvWpqzv8"
+intro: "https://www.youtube.com/watch?v=KCQsvWpqzv8"
 
 ---
 
