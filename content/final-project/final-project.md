@@ -6,6 +6,9 @@ tags: ["Generative AI", "AI Creativity", "AI Tools", "Final Project"]
 
 # Final Project: Exploring the Potential of Generative AI 🌟
 
+![Ilustración](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/refs/heads/main/assets/a-modern-and-sleek-illustration-of-a-.png)
+
+
 This project invites you to immerse yourself in the fascinating and ever-expanding world of generative artificial intelligence (AI). You’ll have the opportunity to experiment with state-of-the-art AI tools to design and produce original and impactful creative works. Imagine crafting a vibrant website, a captivating illustrated book, an action-packed comic, or a short film that transports your audience to new worlds. The possibilities are as limitless as your creativity!
 
 Generative AI is revolutionizing the way we approach creativity, enabling anyone to become a storyteller, designer, or artist with the help of cutting-edge technologies. This project will challenge you to take full advantage of these tools, while also documenting your journey to provide a deeper understanding of the creative process when working alongside AI.
