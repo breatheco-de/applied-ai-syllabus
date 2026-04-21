@@ -8,9 +8,6 @@ authors: ["charlytoc"]
 #### Introducción
 Los Modelos de Lenguaje Grande (LLMs) están revolucionando el campo de la inteligencia artificial, particularmente en el procesamiento del lenguaje natural (NLP). Estos modelos permiten a las máquinas realizar tareas que requieren entender y generar lenguaje humano con una precisión notable. El propósito de esta guía es simplificar estos conceptos complejos y proporcionar conocimientos fundamentales para aquellos que son nuevos en la IA aplicada.
 
-![Redes Neuronales](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/refs/heads/main/assets/neural-network.webp)
----
-
 ### ¿Qué son los Modelos de Lenguaje Grande?
 
 Los LLMs son sistemas de IA sofisticados entrenados para entender, generar y manipular el lenguaje humano. Logran esto analizando grandes cantidades de datos textuales para aprender patrones lingüísticos y matices contextuales.
@@ -34,15 +31,9 @@ Los LLMs pasan por un extenso entrenamiento en conjuntos de datos diversos, lo q
 - **Aprendizaje de Patrones**: Algoritmos de aprendizaje profundo procesan estos tokens para identificar patrones y relaciones.
 - **Ajuste Fino**: Los modelos se ajustan para dominios específicos utilizando conjuntos de datos dirigidos para mejorar su precisión en aplicaciones particulares.
 
-
----
-
 #### 3. Arquitectura del Modelo
 
 La arquitectura de los LLMs típicamente gira en torno a redes neuronales, particularmente **arquitecturas de transformadores**. Estas arquitecturas permiten a los modelos manejar secuencias enteras de tokens a la vez en lugar de procesar cada palabra secuencialmente, lo que mejora significativamente su capacidad para entender dependencias a lo largo de textos más largos.
-
-
----
 
 ### Proveedores Comunes de LLM
 
@@ -69,8 +60,6 @@ La arquitectura de los LLMs típicamente gira en torno a redes neuronales, parti
 
 **Sugerencia de Discusión**: Compara y contrasta los enfoques de estos proveedores en términos de aplicación y ética.
 
----
-
 ### Aplicaciones Prácticas de los LLM
 
 Los LLMs ofrecen posibilidades transformadoras en varios campos:
@@ -82,8 +71,6 @@ Los LLMs ofrecen posibilidades transformadoras en varios campos:
 
 - **Sugerencia de Ayuda Visual**: Incluir estudios de caso o ejemplos del mundo real que muestren a los LLMs en acción en diferentes industrias.
 
----
-
 ### Desafíos y Consideraciones
 
 Si bien los LLMs tienen un vasto potencial, vienen con varios desafíos:
@@ -93,8 +80,6 @@ Si bien los LLMs tienen un vasto potencial, vienen con varios desafíos:
 - **Intensidad de Recursos**: Los LLMs requieren un poder computacional significativo para el entrenamiento y mantenimiento, lo que plantea preocupaciones ambientales y de costos.
 
 **Sugerencia de Discusión**: ¿Cómo pueden los desarrolladores abordar estos desafíos mientras maximizan los beneficios de los LLMs?
-
----
 
 ### Conclusión
 

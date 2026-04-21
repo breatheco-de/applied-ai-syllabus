@@ -3,9 +3,6 @@
 #### Introduction
 Large Language Models (LLMs) are revolutionizing the field of artificial intelligence, particularly in natural language processing (NLP). These models enable machines to perform tasks that require understanding and generating human language with remarkable precision. The purpose of this guide is to simplify these complex concepts and provide foundational knowledge for those new to applied AI.
 
-![Neural Networks](https://raw.githubusercontent.com/breatheco-de/applied-ai-syllabus/refs/heads/main/assets/neural-network.webp)
----
-
 ### What are Large Language Models?
 
 LLMs are sophisticated AI systems trained to understand, generate, and manipulate human language. They achieve this by analyzing vast amounts of text data to learn linguistic patterns and contextual nuances.
@@ -29,15 +26,9 @@ LLMs undergo extensive training on diverse datasets, enabling them to develop so
 - **Learning Patterns**: Deep learning algorithms process these tokens to identify patterns and relationships.
 - **Fine-Tuning**: Models are adjusted for specific domains using targeted datasets to enhance their accuracy for particular applications.
 
-
----
-
 #### 3. Model Architecture
 
 The architecture of LLMs typically revolves around neural networks, particularly **transformer architectures**. These architectures allow models to handle entire sequences of tokens at once rather than sequentially processing each word, which significantly enhances their ability to understand dependencies over longer text spans.
-
-
----
 
 ### Common Popular LLM Providers
 
@@ -64,8 +55,6 @@ The architecture of LLMs typically revolves around neural networks, particularly
 
 **Discussion Prompt**: Compare and contrast the focuses of these providers in terms of application and ethics.
 
----
-
 ### Practical Applications of LLMs
 
 LLMs provide transformative possibilities across various fields:
@@ -77,8 +66,6 @@ LLMs provide transformative possibilities across various fields:
 
 - **Visual Aid Suggestion**: Include case studies or real-world examples showing LLMs in action across different industries.
 
----
-
 ### Challenges and Considerations
 
 While LLMs have vast potential, they come with several challenges:
@@ -88,8 +75,6 @@ While LLMs have vast potential, they come with several challenges:
 - **Resource Intensity**: LLMs require significant computational power for training and maintenance, raising environmental and cost concerns.
 
 **Discussion Prompt**: How can developers address these challenges while maximizing the benefits of LLMs?
-
----
 
 ### Conclusion
 
