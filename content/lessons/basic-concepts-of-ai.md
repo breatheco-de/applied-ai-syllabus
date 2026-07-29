@@ -5,7 +5,7 @@ tags: ["generative-ai", "ai-models", "neural-networks"]
 authors: ["Charly Chacon"]
 ---
 
-![Prompt: a_robot_with_humanoid_aspect_drawing_on_a_picture, by @Charlytoc](https://storage.googleapis.com/rigobot-storage-bucket/images/charlytoc_a_robot_with_humanoid_aspect_drawing_on_a_picture_286bf920-6d07-4e21-be6f-b637fda1d766.webp)
+![Prompt:_A_robot_painting_on_a_canvas_3821309c-004d-41b7-b009-21c9bdd3674e](https://github.com/breatheco-de/applied-ai-syllabus/assets/107764250/41e8da3f-f1ba-48ca-bbdf-f1a8a60e7486)  
 
 # 🤖 Artificial Intelligence in Simple Terms
 
@@ -45,7 +45,7 @@ A **neural network** is a structure inspired by the human brain. It’s made up 
 
 Each connection has a **weight**, which is just a number that tells the network how strong that connection is. The system learns by **adjusting these weights** during training. The better the weights are adjusted, the more accurate the AI becomes.
 
-![Prompt: Diagrama minimalista de una red neuronal, by @Charlytoc](https://storage.googleapis.com/rigobot-storage-bucket/images/charlytoc_neural_network_diagram_minimalistic_but_inderstandabl_8a420f74-ff58-41c7-a80f-1be1d494830a.webp)
+![Prompt: Diagrama minimalista de una red neuronal](https://github.com/breatheco-de/applied-ai-syllabus/assets/107764250/f0925edc-4e2a-4815-ab43-234617375f02))
 
 ---
 
