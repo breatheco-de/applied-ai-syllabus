@@ -2,9 +2,9 @@
 
 ```
 Todos:
-- Agregar seccion explicando como usar la interfaz de ChatGPT.
-- Aclarar bien cuales son los tools especificos que vas a usar.
-- Agregar generacion de audio.
+- Agregar sección explicando como usar la interfaz de ChatGPT.
+- Aclarar bien cuales son los tools específicos que vas a usar.
+- Agregar generación de audio.
 ```
 
 Course Schedule:
