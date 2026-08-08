@@ -1,6 +1,6 @@
 ---
 title: "🌍 El Mundo de la Automatización: Libera tu Productividad con Zapier"
-description: "Explora cómo herramientas como Zapier están transformando la forma en que trabajamos mediante la automatización de tareas. Aprende qué es Zapier, cómo usarlo, sus limitaciones, ejemplos prácticos y sus nuevas capacidades impulsadas por inteligencia artificial."
+description: 🔎 "Explora cómo herramientas como Zapier están transformando la forma en que trabajamos mediante la automatización de tareas. Aprende qué es Zapier, cómo usarlo, sus limitaciones, ejemplos prácticos y sus nuevas capacidades impulsadas por inteligencia artificial."
 tags: ["Automatización", "Zapier", "Productividad", "Inteligencia Artificial"]
 author: ["Charlytoc"]
 ---
